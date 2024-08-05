@@ -1,7 +1,7 @@
 ---
 title: Daily
 index: false
-icon: laptop-code
+icon: calendar-days
 # category:
 #   - PM
 article: false

@@ -1,7 +1,7 @@
 ---
 title: PM
 index: false
-icon: laptop-code
+icon: compass
 # category:
 #   - PM
 article: false

@@ -32,7 +32,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/blog/portfolio/": ["0622"]
+      "/portfolio/": ["0622"],
+      "/resume/": ["0622"],
     },
   },
 

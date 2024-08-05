@@ -23,10 +23,17 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "Resume",
+      icon: "lock",
+      prefix: "resume/",
+      link: "resume/",
+      // children: "structure",
+    },
+    {
       text: "Portfolio",
-      icon: "address-card",
-      prefix: "blog/portfolio/",
-      link: "blog/portfolio/",
+      icon: "lock",
+      prefix: "portfolio/",
+      link: "portfolio/",
       // children: "structure",
     },
     // {

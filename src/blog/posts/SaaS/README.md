@@ -1,7 +1,7 @@
 ---
 title: SaaS
 index: false
-icon: laptop-code
+icon: diagram-project
 # category:
 #   - SaaS
 article: false
