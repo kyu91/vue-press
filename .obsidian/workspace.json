@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "bfc324cb0eb6292c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8abebccc658913db",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4b52132d1eb32fb6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2e2938a8641a4f54",
+    "type": "split",
+    "children": [
+      {
+        "id": "1851275f84122aee",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74450d3e870b4989",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7a64b071b9f0336a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6a48f78586983926",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "43f48ff667d57dc7",
+    "type": "split",
+    "children": [
+      {
+        "id": "fe5b78a23695884a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8659e9292bfa70c4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bd8eaab0575877e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5c250e852db1319c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cfbb87e518ef1a9f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "c55a621d896f27d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "4b52132d1eb32fb6",
+  "lastOpenFiles": [
+    "tsconfig.json",
+    "src/blog/posts/SaaS/image/Untitled434333.png",
+    "src/blog/posts/SaaS/image/Untitled234.png",
+    "src/blog/posts/SaaS/image/20240730093225.png",
+    "src/blog/posts/SaaS/삽질 그만하고 oopy.io 사용하기.md",
+    "src/blog/posts/SaaS/image",
+    "src/blog/posts/SaaS/README.md",
+    "src/blog/posts/PM/검색 엔진 최적화(SEO) 정의와 적용 방법.md",
+    "src/blog/posts/PM/README.md",
+    "src/blog/posts/PM/CAC와 LTV의 정의 및 관계(7가지코드).md",
+    "src/blog/posts/SaaS",
+    "src/blog/posts/README.md",
+    "src/blog/posts/PM",
+    "src/blog/posts",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[8일차]7가지 코드-시장진입 cd5f4e493e4e48dd8581deeba9e86e3c.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[43일차]7가지 코드-31장 bcc09d58284e4e51aa61043dc13fc135.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[39일차]7가지 코드-27, 28장 6f97a0ee62f94b4dbcb3994370c14d0e.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[32일차]7가지 코드-22, 23장 9ff2c843d8f4456ca10b3b157c039d89.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[2일차]7가지 코드-제품 설계 1장 f4d8c8d81ac74efda2e142e6b0ed9ba4.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[27일차]7가지 코드-19장 b3ab6cf3ce0041da8f46cea3c3d85e54.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[22일차]7가지 코드-16장 324794b36df942739b696703cbcf587a.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[19일차]7가지 코드-15장-01 44cf7637f71c4ea9be4f4ddd05d60dbc.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[17일차]7가지 코드-13장-2 2d3fb7e70c3b402eb9538798d774a658.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[14일차]7가지 코드-12장-2 9bef01f5182a4f5f8fae08dcf14421fb.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[12일차]7가지 코드-10장, 11장 ed25d90bcc164f97b0f8ea246dc3941d.md",
+    "src/about/README.md",
+    "src/about",
+    "src/README.md",
+    "pnpm-lock.yaml",
+    "package.json",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-32/Untitled.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-37/Untitled.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-44/Untitled.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-44/Untitled 2.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-44/Untitled 1.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-46/Untitled.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-46/Untitled 1.png",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-46",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-44",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/image-37",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[9일차]7가지 코드-선택사항 비교 및 해자 893bada5ed0f405ca20d0fa9a571ad9d.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[7일차]7가지 코드-비지니스모델 bd90a0c4427c487bacba679487d1ec36.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[6일차]7가지 코드-제품설계 1장 끝까지 bbd11a73840b440fba047580f2983b87.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[5일차]7가지 코드-제품설계 4장 def11525e2c044dcaeebb3095b14cebd.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[4일차]7가지 코드-제품 설계 3장 dc080e9c19f04a57937c0fa63549b3fd.md",
+    "src/blog/books/📕[7가지 코드]닐 메타, 아디티야 아가쉐/[48일차]7가지 코드-35장 8ec882a3ef454156a4ae1cf2c2873799.md"
+  ]
+}
