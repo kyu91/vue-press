@@ -99,9 +99,12 @@ export default hopeTheme({
   plugins: {
     blog: true,
     docsearch: {
-      appId: process.env.DOCSEARCH_APP_ID,
-      apiKey: process.env.DOCSEARCH_APP_KEY,
-      indexName: process.env.DOCSEARCH_INDEX_NAME,
+      // appId: process.env.DOCSEARCH_APP_ID,
+      // apiKey: process.env.DOCSEARCH_APP_KEY,
+      // indexName: process.env.DOCSEARCH_INDEX_NAME,
+      appId: "LGRO6B0GW0",
+      apiKey: "71d48ccde4758c9e5efae399025433a4",
+      indexName: "b7f346f201e78265bf3af1e908d59786",
       locales: {
         '/': {
           placeholder: 'Search Documentation',
