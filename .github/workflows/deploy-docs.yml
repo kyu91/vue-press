@@ -48,11 +48,11 @@ jobs:
         run: |-
           pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
-          echo "DOCSEARCH_APP_ID: ${DOCSEARCH_APP_ID}"
-          echo "DOCSEARCH_APP_KEY: ${DOCSEARCH_APP_KEY}"
-          echo "DOCSEARCH_INDEX_NAME: ${DOCSEARCH_INDEX_NAME}"
-          echo "RESUME_PW: ${RESUME_PW}"
-          echo "PORTFOLIO_PW: $PORTFOLIO_PW"
+          echo "DOCSEARCH_APP_ID: ${DOCSEARCH_APP_ID}" >> .env
+          echo "DOCSEARCH_APP_KEY: ${DOCSEARCH_APP_KEY}" >> .env
+          echo "DOCSEARCH_INDEX_NAME: ${DOCSEARCH_INDEX_NAME}" >> .env
+          echo "RESUME_PW: ${RESUME_PW}" >> .env
+          echo "PORTFOLIO_PW: $PORTFOLIO_PW" >> .env
 
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
