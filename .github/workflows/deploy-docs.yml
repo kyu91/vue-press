@@ -48,12 +48,7 @@ jobs:
         run: |-
           pnpm run docs:build
           > src/.vuepress/dist/.nojekyll
-
-          DOCSEARCH_APP_ID: ${{ secrets.DOCSEARCH_APP_ID }} >> .env
-          DOCSEARCH_APP_KEY: ${{ secrets.DOCSEARCH_APP_KEY }} >> .env
-          DOCSEARCH_INDEX_NAME: ${{ secrets.DOCSEARCH_INDEX_NAME }} >> .env
-          RESUME_PW: ${{ secrets.RESUME_PW }} >> .env
-          PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }} >> .env
+          echo "RESUME_PW: ${{ secrets.RESUME_PW }}"
 
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
