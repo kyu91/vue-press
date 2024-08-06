@@ -25,15 +25,11 @@ backtotop: false
 
 #### 재밌게 성장 하고 싶은 PM 홍석규 입니다.
 
-# 🙇‍♂️ Introduction
----
+## 🙇‍♂️ Introduction
 
-<details>
-  <summary> 👈 (클릭)증명사진 😎</summary>
-  <div>
-    <img src="./resume_img.png">
-  </div>
-</details>
+::: details 😎 증명사진
+![증명사진 이미지](resume_img.png)
+:::
 
 - 이름 : 홍석규(남)
 - 년생 : 1991년
@@ -41,13 +37,12 @@ backtotop: false
 - 취미 : 농구, 독서, 블로그 관리(포스트 작성, 코딩), Tools 사용하기, 강아지와 놀기 
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
 - Blog : [https://www.levih.me](https://www.levih.me/)
-- Portfolio : [https://www.levih.me/portfolio](https://www.levih.me/portfolio) 👉 PW : 0622
+- Portfolio : [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
 
 
-# 💼 Experience.
----
+## 💼 Experience.
 
-### Daewoongpet
+::: details <b><u>Daewoongpet</u></b>
 - **근무 기간**
   - <u>2023.08.07 ~ 현재</u>
 - **담당 업무**
@@ -61,8 +56,9 @@ backtotop: false
   - 사내 SaaS, 프로그램 도입 검토 및 교육
   - 반려동물 온라인 추모관 홈페이지 마케팅 PM
   - 수의사 전용 교육 플랫폼 콘텐츠 기획 및 마케팅 PM
+:::
 
-### Blue M Tec
+::: details <b><u>Blue M Tec</u></b>
 - **근무 기간**
   - <u>2023.06.01 ~ 2023.08.04</u>(2개월)
 - **담당 업무**
@@ -75,8 +71,9 @@ backtotop: false
 - **내 업무**
   - 온라인 쇼핑몰 Web/ App/ Admin 추가 기능 서비스 기획
   - 신규 홈페이지(의사 초빙 플랫폼, 회사홈페이지, 렌딩페이지) 기획 및 화면설계서 작성
+:::
 
-### Inforang
+::: details <b><u>Inforang</u></b>
 - **근무 기간**
   - <u>2019.04.01 ~ 2022.09.01</u>(3년 6개월)
 - **담당 업무**
@@ -95,12 +92,12 @@ backtotop: false
   - 도메인, SSL 인증서 관리
   - 구글 에널리틱스 관리
   - 경쟁 PT, 제안서 발표
+:::
 
 
-# 🎓Education.
----
+## 🎓Education.
 
-### SW사관학교 정글
+::: details <b><u>SW사관학교 정글</u></b>
 - **기간**
   - <u>2022.09.15 ~ 2023.02.15</u>(6개월)
 - **목적**
@@ -116,25 +113,26 @@ backtotop: false
   - 8~13주 : 카이스트 전산학부 과정 중 PintOS과정을 진행 하며 OS를 구현 및 공부하며 이해
   - 14~18주 : 팀프로젝트로 사용자가 사용할 수 있는 서비스를 구축하고 론칭
     - 14~18주차 팀 프로젝트 리더
+:::
 
-### 공주대학교
+::: details <b><u>공주대학교</u></b>
 - **기간**
   - <u>2010.03. ~ 2017.7.</u>
 - **소개**
   - 특수동물학과
   - 학생 회장
   - 농구부 동아리 회장
+:::
 
-### 양주백석고등학교(이과)
+::: details <b><u>양주백석고등학교(이과)</u></b>
 - **기간**
   - <u>2007.03. ~ 2010.02.</u>
 - **소개**
   - 3년간 독서 스터디에서 책을 읽고 독서노트 작성 및 발표 
   - 농구 동아리 회장 및 아마추어 경기 북동 고교 대표 학교
+:::
 
-
-# 🛠️ Stat.
----
+## 🛠️ Stat.
 
 ::: chart Skills
 
