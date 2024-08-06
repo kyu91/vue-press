@@ -117,7 +117,7 @@ export default hopeTheme({
     // You MUST generate and use your own comment service in production.
     // comment: {
     //   provider: "Waline",
-    //   serverURL: "https://waline-comment.vuejs.press",
+    //   serverURL: "https://waline-comment.vuejs.press", 
     // },
 
     components: {
