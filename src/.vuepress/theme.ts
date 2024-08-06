@@ -165,7 +165,7 @@ export default hopeTheme({
       vPre: true,
 
       // install chart.js before enabling it
-      // chart: true,
+      chart: true,
 
       // insert component easily
 

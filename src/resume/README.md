@@ -23,12 +23,31 @@ footer: false
 backtotop: false
 ---
 
-## 💼 Experience.
+#### 재밌게 성장 하고 싶은 PM 홍석규 입니다.
 
-::: tabs
-@tab:active 🐻 Daewoongpet(2023.08.07 ~ 현재)
-<!-- tab 1 content -->
-### Daewoongpet(Product Manager)
+# 🙇‍♂️ Introduction
+---
+
+<details>
+  <summary> 👈 (클릭)증명사진 😎</summary>
+  <div>
+    <img src="./resume_img.png">
+  </div>
+</details>
+
+- 이름 : 홍석규(남)
+- 년생 : 1991년
+- 특기 : 시스템 분석, 서비스 분석, 기획서 작성, 문제 분석 및 해결점 모색
+- 취미 : 농구, 독서, 블로그 관리(포스트 작성, 코딩), Tools 사용하기, 강아지와 놀기 
+- Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
+- Blog : [https://www.levih.me](https://www.levih.me/)
+- Portfolio : [https://www.levih.me/portfolio](https://www.levih.me/portfolio) 👉 PW : 0622
+
+
+# 💼 Experience.
+---
+
+### Daewoongpet
 - **근무 기간**
   - <u>2023.08.07 ~ 현재</u>
 - **담당 업무**
@@ -43,9 +62,7 @@ backtotop: false
   - 반려동물 온라인 추모관 홈페이지 마케팅 PM
   - 수의사 전용 교육 플랫폼 콘텐츠 기획 및 마케팅 PM
 
-@tab 🫐 Blue M Tec(2023.06.01 ~ 2023.08.04)
-<!-- tab 2 content -->
-### Blue M Tec(Product Manager)
+### Blue M Tec
 - **근무 기간**
   - <u>2023.06.01 ~ 2023.08.04</u>(2개월)
 - **담당 업무**
@@ -59,9 +76,7 @@ backtotop: false
   - 온라인 쇼핑몰 Web/ App/ Admin 추가 기능 서비스 기획
   - 신규 홈페이지(의사 초빙 플랫폼, 회사홈페이지, 렌딩페이지) 기획 및 화면설계서 작성
 
-@tab ℹ️ Inforang(2019.04.01 ~ 2022.09.01)
-<!-- tab 3 content -->
-### Inforang(Project Manager)
+### Inforang
 - **근무 기간**
   - <u>2019.04.01 ~ 2022.09.01</u>(3년 6개월)
 - **담당 업무**
@@ -81,14 +96,11 @@ backtotop: false
   - 구글 에널리틱스 관리
   - 경쟁 PT, 제안서 발표
 
-:::
 
-## 🎓Education.
+# 🎓Education.
+---
 
-::: tabs
-@tab:active 🌳 SW사관학교 정글(2022.09.15 ~ 2023.02.15)
-<!-- tab 1 content -->
-### SW사관학교 정글(개발 공부)
+### SW사관학교 정글
 - **기간**
   - <u>2022.09.15 ~ 2023.02.15</u>(6개월)
 - **목적**
@@ -105,23 +117,125 @@ backtotop: false
   - 14~18주 : 팀프로젝트로 사용자가 사용할 수 있는 서비스를 구축하고 론칭
     - 14~18주차 팀 프로젝트 리더
 
-@tab 🏫 공주대학교(2010.03. ~ 2017.7.)
-<!-- tab 2 content -->
-### 공주대학교(특수동물학과)
+### 공주대학교
 - **기간**
   - <u>2010.03. ~ 2017.7.</u>
 - **소개**
+  - 특수동물학과
   - 학생 회장
   - 농구부 동아리 회장
 
-@tab 🏫 공주대학교(2007.03. ~ 2010.02.)
-<!-- tab 3 content -->
 ### 양주백석고등학교(이과)
 - **기간**
   - <u>2007.03. ~ 2010.02.</u>
 - **소개**
   - 3년간 독서 스터디에서 책을 읽고 독서노트 작성 및 발표 
   - 농구 동아리 회장 및 아마추어 경기 북동 고교 대표 학교
+
+
+# 🛠️ Stat.
+---
+
+::: chart Skills
+
+```json
+{
+  "type": "radar",
+  "data": {
+    "labels": [
+      "리더쉽",
+      "커뮤니케이션",
+      "개발 지식",
+      "주인의식",
+      "분석력",
+      "침착함",
+      "문제 해결"
+    ],
+    "datasets": [
+      {
+        "label": "숙련도",
+        "data": [9, 10, 8, 9, 8, 10, 9],
+        "fill": true,
+        "backgroundColor": "rgba(43,0,255, 0.5)",
+        "borderColor": "rgb(43,0,255)",
+        "pointBackgroundColor": "rgb(43,0,255)",
+        "pointBorderColor": "#fff",
+        "pointHoverBackgroundColor": "#fff",
+        "pointHoverBorderColor": "rgb(43,0,255)"
+      }
+    ]
+  },
+  "options": {
+    "elements": {
+      "line": {
+        "borderWidth": 3
+      }
+    },
+    "scale": {
+      "r": {
+        "min": 0,
+        "max": 10,
+        "ticks": {
+          "stepSize": 5
+        }
+      }
+    }
+  }
+}
+```
+
 :::
 
-## 🛠️ Skill.
+---
+
+::: chart Tools
+
+```json
+{
+  "type": "radar",
+  "data": {
+    "labels": [
+      "Notion",
+      "Figma",
+      "Spread Sheets",
+      "Power Point",
+      "Python/JS",
+      "Jira/Asana",
+      "Google Analytics"
+    ],
+    "datasets": [
+      {
+        "label": "숙련도",
+        "data": [9, 7, 8, 9, 6, 7, 8],
+        "fill": true,
+        "backgroundColor": "rgba(255, 99, 132, 0.5)",
+        "borderColor": "rgb(255, 99, 132)",
+        "pointBackgroundColor": "rgb(255, 99, 132)",
+        "pointBorderColor": "#fff",
+        "pointHoverBackgroundColor": "#fff",
+        "pointHoverBorderColor": "rgb(255, 99, 132)"
+      }
+    ]
+  },
+  "options": {
+    "elements": {
+      "line": {
+        "borderWidth": 3
+      }
+    },
+    "scale": {
+      "r": {
+        "min": 0,
+        "max": 10,
+        "ticks": {
+          "stepSize": 5
+        }
+      }
+    }
+  }
+}
+```
+:::
+
+
+

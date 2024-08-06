@@ -25,9 +25,6 @@ backtotop: false
 
 ## 💼 Experience.
 
-<!-- >[!tip]
->상세한 포트폴리오는 해당 [링크(비공개)](https://levih.me/blog/portfolio)에서 확인 가능 합니다. 비밀번호는 비밀🤫 -->
-
 ::: tabs
 @tab:active 🐻 Daewoongpet(2023.08.07 ~ 현재)
 <!-- tab 1 content -->
