@@ -36,26 +36,5 @@ export default sidebar({
       link: "portfolio/",
       // children: "structure",
     },
-    // {
-    //   text: "Test",
-    //   icon: "laptop-code",
-    //   prefix: "test/",
-    //   link: "test/",
-    //   children: "structure",
-    // },
-    // {
-    //   text: "Posts",
-    //   icon: "book",
-    //   prefix: "posts/",
-    //   link: "posts/",
-    //   children: "structure",
-    // },
-    // "portfolio",
-    // "intro",
-    // {
-    //   text: "Slides",
-    //   icon: "person-chalkboard",
-    //   link: "https://plugin-md-enhance.vuejs.press/guide/content/revealjs/demo.html",
-    // },
   ],
 });

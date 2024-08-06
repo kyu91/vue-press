@@ -23,19 +23,27 @@ export default hopeTheme({
   // navbar
   navbar,
 
+  navbarLayout: {
+    start: ["Brand"],
+    center: ["Links"],
+    end: ["Search", "Outlook"],
+  },
+
+  encrypt: {
+    config: {
+      // This will encrypt the entire guide directory, and both passwords are available
+      "/resume/": process.env.RESUME_PW,
+      // This will only encrypt /config/page.html
+      "/portfolio/": process.env.PORTFOLIO_PW,
+    },
+  },
+
   // sidebar
   sidebar,
 
   footer: "Default footer",
 
   displayFooter: true,
-
-  encrypt: {
-    config: {
-      "/portfolio/": ["0622"],
-      "/resume/": ["0622"],
-    },
-  },
 
   blog: {
     description: "Product Manager",
@@ -88,6 +96,21 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    docsearch: {
+      appId: process.env.DOCSEARCH_APP_ID,
+      apiKey: process.env.DOCSEARCH_APP_KEY,
+      indexName: process.env.DOCSEARCH_INDEX_NAME,
+      locales: {
+        '/': {
+          placeholder: 'Search Documentation',
+          translations: {
+            button: {
+              buttonText: '검색하십쇼',
+            },
+          },
+        },
+      },
+    },
 
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
