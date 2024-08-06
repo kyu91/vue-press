@@ -3,6 +3,8 @@ import { hopeTheme } from "vuepress-theme-hope";
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
 
+console.log("호호호호호호호호호호호호", process.env.RESUME_PW)
+
 export default hopeTheme({
   hostname: "https://kyu91.github.io",
 
@@ -28,7 +30,7 @@ export default hopeTheme({
     center: ["Links"],
     end: ["Search", "Outlook"],
   },
-
+  
   encrypt: {
     config: {
       // This will encrypt the entire guide directory, and both passwords are available
