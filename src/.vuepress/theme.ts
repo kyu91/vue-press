@@ -13,9 +13,8 @@ export default hopeTheme({
     url: "https://levih.me",
   },
 
-  iconAssets: "fontawesome-with-brands",
+  // iconAssets: "fontawesome-with-brands",
 
-  // logo: "https://theme-hope-assets.vuejs.press/logo.svg",
   logo: "/logo.svg",
 
   // repo: "vuepress-theme-hope/vuepress-theme-hope",
