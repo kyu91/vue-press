@@ -13,7 +13,7 @@ export default hopeTheme({
     url: "https://levih.me",
   },
 
-  // iconAssets: "fontawesome-with-brands",
+  iconAssets: "fontawesome-with-brands",
 
   logo: "/logo.svg",
 
