@@ -42,7 +42,6 @@ jobs:
           NODE_OPTIONS: --max_old_space_size=8192
           DOCSEARCH_APP_ID: ${{ vars.DOCSEARCH_APP_ID }}
           DOCSEARCH_APP_KEY: ${{ vars.DOCSEARCH_APP_KEY }}
-          DOCSEARCH_INDEX_NAME: ${{ vars.DOCSEARCH_INDEX_NAME }}
           RESUME_PW: ${{ vars.RESUME_PW }}
           PORTFOLIO_PW: ${{ vars.PORTFOLIO_PW }}
         run: |-
@@ -50,7 +49,6 @@ jobs:
           > src/.vuepress/dist/.nojekyll
           echo "DOCSEARCH_APP_ID: ${{ vars.DOCSEARCH_APP_ID }}" >> .env
           echo "DOCSEARCH_APP_KEY: ${{ vars.DOCSEARCH_APP_KEY }}" >> .env
-          echo "DOCSEARCH_INDEX_NAME: ${{ vars.DOCSEARCH_INDEX_NAME }}" >> .env
           echo "RESUME_PW: ${{ vars.RESUME_PW }}" >> .env
           echo "PORTFOLIO_PW: ${{ vars.PORTFOLIO_PW }}" >> .env
 
