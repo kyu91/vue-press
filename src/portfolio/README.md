@@ -1,11 +1,11 @@
 ---
-layout: Slide
+# layout: Slide
 title: Portfolio
-index: false
 icon: file-lines
 
 # category:
 #   - Blog
+index: false
 article: false
 
 navbar: false
@@ -20,13 +20,11 @@ prev: false
 next: false
 comment: false
 footer: false
+toc : false
 
 backtotop: false
 ---
 <center>
-
-# 🗂️ Portfolio
----
 
 아래 포트폴리오는 Figma의 프로토타입을 임베드한 iframe 입니다. 
 
