@@ -27,6 +27,13 @@ export default defineUserConfig({
         src: "https://tally.so/widgets/embed.js",
       }
     ],
+    [
+      "link",
+      {
+        rel: "stylesheet",
+        href: "https://cdn.jsdelivr.net/npm/@docsearch/css@3",
+      },
+    ],
   ],
 
   // Enable it with pwa
