@@ -41,5 +41,12 @@ export default navbar([
     // only active in `/guide/`
     // activeMatch: "^/test/$",
   },
+  {
+    text: "Contact us",
+    link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave&tally-auto-close=0",
+    icon: "file-signature",
+    // only active in `/guide/`
+    // activeMatch: "^/test/$",
+  },
 
 ]);

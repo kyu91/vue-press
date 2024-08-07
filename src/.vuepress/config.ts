@@ -20,6 +20,13 @@ export default defineUserConfig({
       },
     ],
     ["script", {}, "window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'G-6PC30T52FB');"],
+    [
+      "script",
+      {
+        async: true,
+        src: "https://tally.so/widgets/embed.js",
+      }
+    ],
   ],
 
   // Enable it with pwa

@@ -9,13 +9,9 @@ avatar: "/about.svg"
 welcome: '👋 Hi there, I am'
 
 titles:
-  - Product Manager로 일하고 있습니다.
-  - 저는
-  - 문제를 파악하고
-  - 계획을 세우고
-  - 분석하고
-  - 해결하는 것을 좋아합니다. 
-  - 재밌게 봐주세요 😉
+  - PM으로 일하고 있고,
+  - 앞으로도 그럴 생각 입니다.
+  - 문의사항은 'Contact us'으로 작성해 주세요.
 
 footer: false
 ---
