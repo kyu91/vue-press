@@ -99,7 +99,7 @@ export default hopeTheme({
     docsearch: {
       appId: process.env.DOCSEARCH_APP_ID,  
       apiKey: process.env.DOCSEARCH_APP_KEY,
-      indexName: "kyu91io",
+      indexName: process.env.DOCSEARCH_NAME,
       locales: {
         '/': {
           placeholder: 'Search Documentation',
