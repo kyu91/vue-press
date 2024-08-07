@@ -97,9 +97,12 @@ export default hopeTheme({
   plugins: {
     blog: true,
     docsearch: {
-      appId: process.env.DOCSEARCH_APP_ID,  
-      apiKey: process.env.DOCSEARCH_APP_KEY,
-      indexName: process.env.DOCSEARCH_NAME,
+      // appId: process.env.DOCSEARCH_APP_ID,  
+      // apiKey: process.env.DOCSEARCH_APP_KEY,
+      // indexName: process.env.DOCSEARCH_NAME,
+      appId: "PSK0VIVXH5",  
+      apiKey: "d5b77e0fca077ba22349d020ff95a75f",
+      indexName: "kyu91io",
       searchParameters: {
         facetFilters: ['tags:v2'],
       },
