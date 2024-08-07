@@ -23,6 +23,8 @@ footer: false
 toc : false
 
 backtotop: false
+
+sitemap: false
 ---
 <center>
 
