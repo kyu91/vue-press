@@ -25,7 +25,7 @@ backtotop: false
 sitemap: false
 ---
 
-#### 재밌게 성장 하고 싶은 PM 홍석규 입니다.
+#### 재밌게 성장 하고 싶은 PM 입니다.
 
 ## 🙇‍♂️ Introduction
 
@@ -143,18 +143,68 @@ sitemap: false
   "type": "radar",
   "data": {
     "labels": [
+      "Notion",
+      "Figma",
+      "Spread Sheets",
+      "Power Point",
+      "Python/JS",
+      "Jira/Asana",
+      "Google Analytics"
+    ],
+    "datasets": [
+      {
+        "label": "",
+        "data": [9, 8, 8, 9, 6, 7, 8],
+        "fill": true,
+        "backgroundColor": "rgba(255, 99, 132, 0.5)",
+        "borderColor": "rgb(255, 99, 132)",
+        "pointBackgroundColor": "rgb(255, 99, 132)",
+        "pointBorderColor": "#fff",
+        "pointHoverBackgroundColor": "#fff",
+        "pointHoverBorderColor": "rgb(255, 99, 132)"
+      }
+    ]
+  },
+  "options": {
+    "elements": {
+      "line": {
+        "borderWidth": 3
+      }
+    },
+    "scale": {
+      "r": {
+        "min": 0,
+        "max": 10,
+        "ticks": {
+          "stepSize": 5
+        }
+      }
+    }
+  }
+}
+```
+:::
+
+---
+
+::: chart Traits
+
+```json
+{
+  "type": "radar",
+  "data": {
+    "labels": [
       "리더쉽",
       "커뮤니케이션",
       "개발 지식",
-      "주인의식",
       "분석력",
       "침착함",
       "문제 해결"
     ],
     "datasets": [
       {
-        "label": "숙련도",
-        "data": [9, 10, 8, 9, 8, 10, 9],
+        "label": "",
+        "data": [8, 9, 7, 8, 9, 9],
         "fill": true,
         "backgroundColor": "rgba(43,0,255, 0.5)",
         "borderColor": "rgb(43,0,255)",
@@ -186,56 +236,8 @@ sitemap: false
 
 :::
 
----
 
-::: chart Tools
 
-```json
-{
-  "type": "radar",
-  "data": {
-    "labels": [
-      "Notion",
-      "Figma",
-      "Spread Sheets",
-      "Power Point",
-      "Python/JS",
-      "Jira/Asana",
-      "Google Analytics"
-    ],
-    "datasets": [
-      {
-        "label": "숙련도",
-        "data": [9, 7, 8, 9, 6, 7, 8],
-        "fill": true,
-        "backgroundColor": "rgba(255, 99, 132, 0.5)",
-        "borderColor": "rgb(255, 99, 132)",
-        "pointBackgroundColor": "rgb(255, 99, 132)",
-        "pointBorderColor": "#fff",
-        "pointHoverBackgroundColor": "#fff",
-        "pointHoverBorderColor": "rgb(255, 99, 132)"
-      }
-    ]
-  },
-  "options": {
-    "elements": {
-      "line": {
-        "borderWidth": 3
-      }
-    },
-    "scale": {
-      "r": {
-        "min": 0,
-        "max": 10,
-        "ticks": {
-          "stepSize": 5
-        }
-      }
-    }
-  }
-}
-```
-:::
 
 
 
