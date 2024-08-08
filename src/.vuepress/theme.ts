@@ -96,13 +96,11 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    
     docsearch: {
-      // appId: process.env.DOCSEARCH_APP_ID,  
-      // apiKey: process.env.DOCSEARCH_APP_KEY,
-      // indexName: process.env.DOCSEARCH_NAME,
-      appId: "PSK0VIVXH5",  
-      apiKey: "d5b77e0fca077ba22349d020ff95a75f",
-      indexName: "kyu91io",
+      appId: process.env.DOCSEARCH_APP_ID,  
+      apiKey: process.env.DOCSEARCH_APP_KEY,
+      indexName: process.env.DOCSEARCH_NAME,
       searchParameters: {
         facetFilters: ['tags:v2'],
       },
@@ -112,38 +110,6 @@ export default hopeTheme({
           translations: {
             button: {
               buttonText: '검색하십쇼',
-            },
-            modal: {
-              searchBox: {
-                resetButtonTitle: '쿼리 조건 삭제',
-                resetButtonAriaLabel: '쿼리 조건 삭제',
-                cancelButtonText: '취소',
-                cancelButtonAriaLabel: '취소',
-              },
-              startScreen: {
-                recentSearchesTitle: '검색기록',
-                noRecentSearchesText: '검색기록 없습니다.',
-                saveRecentSearchButtonTitle: '검색기록 저장',
-                removeRecentSearchButtonTitle: '검색 기록에서 삭제',
-                favoriteSearchesTitle: '수집',
-                removeFavoriteSearchButtonTitle: '즐겨 찾기에서 삭제',
-              },
-              errorScreen: {
-                titleText: '결과를 얻을 수 없습니다',
-                helpText: '네트워크 연결을 확인해야 할 수도 있습니다.',
-              },
-              footer: {
-                selectText: '선택',
-                navigateText: '전환',
-                closeText: '폐쇄',
-                searchByText: '검색자',
-              },
-              noResultsScreen: {
-                noResultsText: '관련 검색결과가 없습니다.',
-                suggestedQueryText: '당신은 쿼리를 시도할 수 있습니다',
-                reportMissingResultsText: '이 쿼리에 결과가 있어야 한다고 생각하시나요?',
-                reportMissingResultsLinkText: '피드백을 원하시면 클릭하세요',
-              },
             },
           },
         },
