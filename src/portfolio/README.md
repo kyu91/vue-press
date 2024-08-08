@@ -34,4 +34,4 @@ Figma 작동법을 모르신다면 [요기](http://naver.com)를 클릭하여 PD
 
 </center>
 
-<iframe id="iframe_pofol" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2siWAu9J6H6w0QJDwmQOHN%2FPortfolio%3Fnode-id%3D168-4802%26t%3DsjbMNl2g5XUlI8Mb-1%26scaling%3Dcontain%26content-scaling%3Dfixed%26page-id%3D168%253A4801" allowfullscreen></iframe>
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2siWAu9J6H6w0QJDwmQOHN%2FPortfolio%3Fpage-id%3D168%253A4801%26node-id%3D269-619%26viewport%3D550%252C611%252C0.24%26t%3DbjLkoFUubH6ZHTvo-1%26scaling%3Dcontain%26content-scaling%3Dresponsive" allowfullscreen></iframe>
