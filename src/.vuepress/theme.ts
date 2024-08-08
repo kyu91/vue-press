@@ -97,24 +97,26 @@ export default hopeTheme({
   plugins: {
     blog: true,
     
-    docsearch: {
-      appId: process.env.DOCSEARCH_APP_ID,  
-      apiKey: process.env.DOCSEARCH_APP_KEY,
-      indexName: process.env.DOCSEARCH_NAME,
-      searchParameters: {
-        facetFilters: ['tags:v2'],
-      },
-      locales: {
-        '/': {
-          placeholder: 'Search Documentation',
-          translations: {
-            button: {
-              buttonText: '검색하십쇼',
-            },
-          },
-        },
-      },
-    },
+    // docsearch: {
+    //   appId: process.env.DOCSEARCH_APP_ID,  
+    //   apiKey: process.env.DOCSEARCH_APP_KEY,
+    //   indexName: process.env.DOCSEARCH_NAME,
+    //   searchParameters: {
+    //     facetFilters: ['tags:v2'],
+    //   },
+    //   locales: {
+    //     '/': {
+    //       placeholder: 'Search Documentation',
+    //       translations: {
+    //         button: {
+    //           buttonText: '검색하십쇼',
+    //         },
+    //       },
+    //     },
+    //   },
+    // },
+
+    searchPro: true,
 
     // Install @waline/client before enabling it 
     // Note: This is for testing ONLY!
