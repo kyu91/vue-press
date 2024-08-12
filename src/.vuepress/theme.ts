@@ -5,7 +5,7 @@ import sidebar from "./sidebar.js";
 
 
 export default hopeTheme({
-  hostname: "https://levih.me",
+  hostname: "https://www.levih.me",
 
   author: {
     name: "Levi",
