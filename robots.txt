@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://kyu91.github.io/sitemap.xml
+Sitemap: https://levih.me/sitemap.xml
