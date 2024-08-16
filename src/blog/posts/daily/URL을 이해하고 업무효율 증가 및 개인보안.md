@@ -18,7 +18,7 @@ URL을 학습하여 이해하고 이를 바탕으로 업무와 개인(회사)보
 
 ## 2️⃣ URL의 구조
 
-![Untitled](../Daily/image/Untitled.png)
+![Untitled](./image/Untitled.png)
 
 >[!tip]
 >📌 Parameters와 Anchor, Port는 중요하지 않고, 나머지 항목의 역할만 확인 하시면 됩니다.
@@ -81,7 +81,7 @@ URL을 학습하여 이해하고 이를 바탕으로 업무와 개인(회사)보
 - CJ대한통운에서 보낸 메일이지만 보낸사람 주소를 보면 **@autotronic.co.id** 인것을 볼 수 있습니다.
 - 제가 [autotronic.co.id](http://autotronic.co.id/) 사이트로 접속 해보니, IoT 기기대여 업체라고 소개를 하고 있습니다.
 - 예, 위장 사이트 입니다. 즉, 하기 메일은 전형적인 스팸 메일이며, 첨부파일을 다운로드하면 바이러스가 컴퓨터에 깔리게 됩니다.
-![Untitled](../Daily/image/Untitled%201.png)     
+![Untitled](./image/Untitled%201.png)     
 
 - **위와같은 메일들은 절대 열어보면 안되며, 메일에 있는 이미지, 링크, 첨부파일을 클릭하면 바로 해킹이 됩니다. 주의 하세요!**
 
