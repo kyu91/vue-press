@@ -10,14 +10,14 @@ export default sidebar({
     },
     {
       text: "Posts",
-      // icon: "home",
+      icon: "folder-open",
       prefix: "blog/posts/",
       link: "blog/posts/",
       children: "structure",
     },
     {
       text: "Books",
-      // icon: "home",
+      icon: "folder-open",
       prefix: "blog/books/",
       link: "blog/books/",
       children: "structure",
