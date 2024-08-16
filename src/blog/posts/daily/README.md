@@ -1,9 +1,7 @@
 ---
 title: Daily
-index: false
 icon: calendar-days
-# category:
-#   - PM
+index: false
 article: false
 ---
 
