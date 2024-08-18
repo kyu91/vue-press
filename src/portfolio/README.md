@@ -36,5 +36,5 @@ Figma 프로토타입에서는 각각의 메뉴와 버튼들을 클릭하면서 
 
 </center>
 
-<iframe id="iframe_pofol" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2siWAu9J6H6w0QJDwmQOHN%2FPortfolio%3Fpage-id%3D168%253A4801%26node-id%3D342-14676%26viewport%3D505%252C1055%252C0.64%26t%3D1vYmmyyoU3sdUbTl-1%26scaling%3Dscale-down-width%26content-scaling%3Dfixed%26starting-point-node-id%3D342%253A14676%26show-proto-sidebar%3D1" allowfullscreen></iframe>
+<iframe id="iframe_pofol" style="border: 1px solid rgba(0, 0, 0, 0.1);" width="100%" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2F2siWAu9J6H6w0QJDwmQOHN%2FPortfolio%3Fpage-id%3D168%253A4801%26node-id%3D342-14676%26viewport%3D376%252C466%252C0.19%26t%3DfMGy6Y6muqimPkHM-1%26scaling%3Dcontain%26content-scaling%3Dfixed%26starting-point-node-id%3D342%253A14676" allowfullscreen></iframe>
 
