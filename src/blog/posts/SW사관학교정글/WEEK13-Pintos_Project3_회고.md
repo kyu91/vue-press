@@ -1,9 +1,9 @@
 ---
-title: "WEEK13-Pintos_Project3_회고"
+title: WEEK13-Pintos_Project3_회고
 icon: pen-to-square
 date: 2022-12-20
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

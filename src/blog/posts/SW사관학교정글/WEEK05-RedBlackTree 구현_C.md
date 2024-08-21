@@ -1,9 +1,9 @@
 ---
-title: "WEEK05-RedBlackTree 구현_C"
+title: WEEK05-RedBlackTree 구현_C
 icon: pen-to-square
 date: 2022-11-11
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

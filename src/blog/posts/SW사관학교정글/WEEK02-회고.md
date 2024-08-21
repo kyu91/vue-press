@@ -1,9 +1,9 @@
 ---
-title: "WEEK02-회고"
+title: WEEK02-회고
 icon: pen-to-square
 date: 2022-10-07
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

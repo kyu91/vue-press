@@ -1,9 +1,9 @@
 ---
-title: "WEEK09-Pintos_Project2_User Program"
+title: WEEK09-Pintos_Project2_User Program
 icon: pen-to-square
 date: 2022-11-29
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

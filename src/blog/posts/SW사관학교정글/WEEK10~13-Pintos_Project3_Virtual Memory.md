@@ -1,9 +1,9 @@
 ---
-title: "WEEK10~13-Pintos_Project3_Virtual Memory"
+title: WEEK10~13-Pintos_Project3_Virtual Memory
 icon: pen-to-square
 date: 2022-12-06
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

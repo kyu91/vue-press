@@ -1,10 +1,10 @@
 ---
-title: "WEEK00-시작"
+title: WEEK00-시작
 icon: pen-to-square
 date: 2022-09-24
 order: 2
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

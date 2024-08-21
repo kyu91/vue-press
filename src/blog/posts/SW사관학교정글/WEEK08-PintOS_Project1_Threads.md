@@ -1,9 +1,9 @@
 ---
-title: "WEEK07-웹 서버 구축(Tiny서버, Proxy)_C언어"
+title: WEEK07-웹 서버 구축(Tiny서버, Proxy)_C언어
 icon: pen-to-square
 date: 2022-11-17
 category:
-  - Develop
+  - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop
