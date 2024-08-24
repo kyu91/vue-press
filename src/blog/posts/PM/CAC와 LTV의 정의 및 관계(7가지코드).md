@@ -8,7 +8,7 @@ tags:
   - ProductManager
   - Marketing
 ---
-7가지 코드를 읽다가 발견한 CAC와 LTV에 대해 공부하자
+- 7가지 코드를 읽다가 발견한 CAC와 LTV에 대해 공부하자
 <!-- more -->
 ## CAC와 LTV의 정의
 
