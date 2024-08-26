@@ -21,26 +21,41 @@ export default navbar([
     // activeMatch: "^/test/$",
   },
   {
-    text: "Category",
-    link: "/category/",
+    text: "Filter",
     icon: "layer-group",
-    // only active in `/guide/`
-    // activeMatch: "^/test/$",
+    children: [
+      {
+        text: "Category",
+        link: "/category/",
+        icon: "layer-group",
+      },
+      {
+        text: "Tag",
+        link: "/tag/",
+        icon: "tags",
+      },
+      {
+        text: "Timeline",
+        link: "/timeline/",
+        icon: "timeline",
+      },
+    ],
   },
-  {
-    text: "Tag",
-    link: "/tag/",
-    icon: "tags",
-    // only active in `/guide/`
-    // activeMatch: "^/test/$",
-  },
-  {
-    text: "Timeline",
-    link: "/timeline/",
-    icon: "timeline",
-    // only active in `/guide/`
-    // activeMatch: "^/test/$",
-  },
+  // {
+  //   text: "Category",
+  //   link: "/category/",
+  //   icon: "layer-group",
+  // },
+  // {
+  //   text: "Tag",
+  //   link: "/tag/",
+  //   icon: "tags",
+  // },
+  // {
+  //   text: "Timeline",
+  //   link: "/timeline/",
+  //   icon: "timeline",
+  // },
   {
     text: "Contact us",
     link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave&tally-auto-close=0",
