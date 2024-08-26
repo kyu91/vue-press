@@ -1,5 +1,5 @@
 ---
-title: Books
+title: Books Home
 icon: book
 index: false
 article: false

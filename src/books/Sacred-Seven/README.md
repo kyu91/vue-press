@@ -1,9 +1,7 @@
 ---
-title: 7가지코드
+title: Sacred-Seven
 index: false
 icon: laptop-code
-# category:
-#   - PM
 article: false
 ---
 
