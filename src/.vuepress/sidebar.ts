@@ -34,7 +34,7 @@ export default sidebar({
     {
       text: "Books Home",
       icon: "Book",
-      prefix: "books/",
+      prefix: "",
       link: "",
     },
     {
