@@ -16,13 +16,20 @@ export default navbar([
   {
     text: "Blog",
     link: "/blog/README.md",
+    icon: "blogger-b",
+    // only active in `/guide/`
+    // activeMatch: "^/test/$",
+  },
+  {
+    text: "Books",
+    link: "/books/README.md",
     icon: "book",
     // only active in `/guide/`
     // activeMatch: "^/test/$",
   },
   {
     text: "Filter",
-    icon: "layer-group",
+    icon: "filter",
     children: [
       {
         text: "Category",
