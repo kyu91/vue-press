@@ -43,7 +43,7 @@ export default sidebar({
       icon: "folder-open",
       prefix: "Sacred-Seven/",
       link: "Sacred-Seven/",
-      children: "structure",
+      // children: "structure",
     },
   ]
 });
