@@ -33,7 +33,7 @@ export default sidebar({
   "/books/": [
     {
       text: "Books Home",
-      icon: "Book",
+      icon: "book",
       prefix: "",
       link: "",
     },
