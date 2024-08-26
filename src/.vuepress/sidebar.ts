@@ -36,14 +36,23 @@ export default sidebar({
       icon: "book",
       prefix: "",
       link: "",
-      children: "structure",
+      // children: "structure",
+      children: [
+        {
+          text: "7가지 코드",
+          icon: "folder-open",
+          prefix: "sacred-seven/",
+          link: "sacred-seven/",
+          children: "structure",
+        },
+      ]
     },
-    {
-      text: "7가지 코드",
-      icon: "folder-open",
-      prefix: "sacred-seven/",
-      link: "sacred-seven/",
-      children: "structure",
-    },
+    // {
+    //   text: "7가지 코드",
+    //   icon: "folder-open",
+    //   prefix: "sacred-seven/",
+    //   link: "sacred-seven/",
+    //   children: "structure",
+    // },
   ]
 });
