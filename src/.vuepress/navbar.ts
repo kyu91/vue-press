@@ -48,21 +48,6 @@ export default navbar([
       },
     ],
   },
-  // {
-  //   text: "Category",
-  //   link: "/category/",
-  //   icon: "layer-group",
-  // },
-  // {
-  //   text: "Tag",
-  //   link: "/tag/",
-  //   icon: "tags",
-  // },
-  // {
-  //   text: "Timeline",
-  //   link: "/timeline/",
-  //   icon: "timeline",
-  // },
   {
     text: "Contact us",
     link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave&tally-auto-close=0",

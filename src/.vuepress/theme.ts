@@ -96,7 +96,6 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
-    
     // docsearch: {
     //   appId: process.env.DOCSEARCH_APP_ID,  
     //   apiKey: process.env.DOCSEARCH_APP_KEY,
