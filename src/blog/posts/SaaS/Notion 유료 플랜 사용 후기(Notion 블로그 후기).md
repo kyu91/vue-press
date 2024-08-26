@@ -7,7 +7,7 @@ category:
 tags:
   - Notion
 ---
-Notion 유로 플랜 사용해보기
+- Notion 유로 플랜 사용해보기
 <!-- more -->
 
 ## 개요

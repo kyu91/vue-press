@@ -1,6 +1,6 @@
 ---
 title: Books Home
-icon: book
+icon: landmark
 index: false
 article: false
 
@@ -21,3 +21,5 @@ sitemap: false
 ---
 
 ### 👋 안녕하세요
+읽었던 책을 정리하여 보관하는 공간 입니다. 
+

@@ -33,16 +33,21 @@ export default sidebar({
   "/books/": [
     {
       text: "Books Home",
-      icon: "book",
-      prefix: "",
-      link: "",
+      icon: "landmark",
     },
     {
-      text: "7가지 코드", 
+      text: "7가지코드", 
       icon: "book",
-      prefix: "Sacred Seven/",
-      link: "Sacred Seven/",
-      children: "structure",
+      prefix: "Sacred-Seven/",
+      link: "Sacred-Seven/",
+      // children: "structure",
+    },
+    {
+      text: "무엇이 나를 행복하게 만드는가", 
+      icon: "book",
+      prefix: "Repacking-Your-Bags/",
+      link: "Repacking-Your-Bags/",
+      // children: "structure",
     },
   ]
 });
