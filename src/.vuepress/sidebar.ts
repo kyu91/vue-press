@@ -34,15 +34,15 @@ export default sidebar({
     {
       text: "Books Home",
       icon: "Book",
-      prefix: "/",
-      link: "/",
+      prefix: "books/",
+      link: "",
     },
     {
       text: "7가지 코드",
       icon: "folder-open",
       prefix: "Sacred-Seven/",
       link: "Sacred-Seven/",
-      // children: "structure",
+      children: "structure",
     },
   ]
 });
