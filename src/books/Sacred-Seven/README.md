@@ -9,6 +9,8 @@ tags:
   - ProductManager
   - Books
 
+# index: false
+# article: false
 ---
 
 - PM이라면 반드시 읽어야 할 필독서

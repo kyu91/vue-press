@@ -1,55 +1,38 @@
 import { sidebar } from "vuepress-theme-hope";
 
 export default sidebar({
-  "/": [
-    {
-      text: "Blog Home",
-      icon: "home",
-      prefix: "blog/",
-      link: "blog/",
-      children: "structure",
-    },
+  "/" : [
+    // "/blog/",
     // {
-    //   text: "Posts",
-    //   icon: "folder-open",
-    //   prefix: "blog/posts/",
-    //   link: "blog/posts/",
+    //   text: "Blog Home",
+    //   icon: "blog",
+    //   prefix: "blog/",
+    //   link: "blog/",
     //   children: "structure",
     // },
+    
+
+    // {
+    //   text: "SW사관학교정글",
+    //   icon: "graduation-cap",
+    //   prefix: "SW사관학교정글/",
+    //   link: "SW사관학교정글/",
+    // },
+  ],
+  "/blog/": [
     {
-      text: "Resume",
-      icon: "lock",
-      prefix: "resume/",
-      link: "resume/",
-      // children: "structure",
-    },
-    {
-      text: "Portfolio",
-      icon: "lock",
-      prefix: "portfolio/",
-      link: "portfolio/",
-      // children: "structure",
+      text: "Blog Home",
+      icon: "blog",
+      children: ["Daily/", "Develop/", "PM/", "SaaS/", "SW사관학교정글/"]
     },
   ],
+
   "/books/": [
     {
       text: "Books Home",
       icon: "landmark",
-      // children: "structure",
+      children: ["Sacred-Seven/", "Repacking-Your-Bags/"],
     },
-    {
-      text: "7가지코드", 
-      icon: "book",
-      prefix: "Sacred-Seven/",
-      link: "Sacred-Seven/",
-      // children: "structure",
-    },
-    {
-      text: "무엇이 나를 행복하게 만드는가", 
-      icon: "book",
-      prefix: "Repacking-Your-Bags/",
-      link: "Repacking-Your-Bags/",
-      // children: "structure",
-    },
-  ]
+  ],
+  
 });

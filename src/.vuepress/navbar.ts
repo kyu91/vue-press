@@ -46,6 +46,18 @@ export default navbar([
         link: "/timeline/",
         icon: "timeline",
       },
+      {
+        text: "Resume",
+        icon: "lock",
+        prefix: "resume/",
+        link: "resume/",
+      },
+      {
+        text: "Portfolio",
+        icon: "lock",
+        prefix: "portfolio/",
+        link: "portfolio/",
+      },
     ],
   },
   {
