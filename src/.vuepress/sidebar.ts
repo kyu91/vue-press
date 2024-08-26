@@ -32,11 +32,10 @@ export default sidebar({
   ],
   "/books/": [
     {
-      text: "Books",
-      icon: "folder-open",
-      prefix: "books/",
-      link: "books/",
-      children: "structure",
+      text: "Books Home",
+      icon: "Book",
+      prefix: "/",
+      link: "/",
     },
     {
       text: "7가지 코드",
