@@ -40,8 +40,8 @@ export default sidebar({
     {
       text: "7가지 코드",
       icon: "book",
-      prefix: "Sacred-Seven/",
-      link: "Sacred-Seven/",
+      prefix: "sacred-seven/",
+      link: "sacred-seven/",
       children: "structure",
     },
   ]
