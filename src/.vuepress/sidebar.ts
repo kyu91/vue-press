@@ -15,13 +15,13 @@ export default sidebar({
       link: "blog/posts/",
       children: "structure",
     },
-    // {
-    //   text: "Books",
-    //   icon: "folder-open",
-    //   prefix: "blog/books/",
-    //   link: "blog/books/",
-    //   children: "structure",
-    // },
+    {
+      text: "Books",
+      icon: "folder-open",
+      prefix: "blog/books/",
+      link: "blog/books/",
+      children: "structure",
+    },
     {
       text: "Resume",
       icon: "lock",

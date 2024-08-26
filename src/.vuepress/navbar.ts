@@ -16,7 +16,7 @@ export default navbar([
   {
     text: "Blog",
     link: "/blog/README.md",
-    icon: "blogger-b",
+    icon: "blog",
     // only active in `/guide/`
     // activeMatch: "^/test/$",
   },
