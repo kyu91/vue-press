@@ -1,21 +1,8 @@
-<!-- ---
-title: 7가지코드 - 닐 메타, 아디티야 아가쉐
-icon: book
-date: 2023-06-01
-category:
-  - Books
-tags:
-  - 7가지코드
-  - ProductManager
-  - Books
---- -->
-
 ---
 title: sacred-seven
 icon: book
-index: false
-article: false
-
+# index: false
+# article: false
 ---
 
 - PM이라면 반드시 읽어야 할 필독서
