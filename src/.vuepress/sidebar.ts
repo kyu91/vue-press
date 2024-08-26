@@ -36,14 +36,13 @@ export default sidebar({
       icon: "book",
       prefix: "",
       link: "",
-      children: "structure",
     },
     {
       text: "7가지 코드",
       icon: "book",
       prefix: "sacred-seven/",
       link: "sacred-seven/",
-      // children: "structure",
+      children: "structure",
     },
   ]
 });
