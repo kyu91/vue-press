@@ -16,13 +16,6 @@ export default sidebar({
       children: "structure",
     },
     {
-      text: "Books",
-      icon: "folder-open",
-      prefix: "blog/books/",
-      link: "blog/books/",
-      children: "structure",
-    },
-    {
       text: "Resume",
       icon: "lock",
       prefix: "resume/",
@@ -37,4 +30,13 @@ export default sidebar({
       // children: "structure",
     },
   ],
+  "/books/": [
+    {
+      text: "Books",
+      icon: "folder-open",
+      prefix: "blog/books/",
+      link: "blog/books/",
+      children: "structure",
+    },
+  ]
 });

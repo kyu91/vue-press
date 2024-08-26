@@ -4,7 +4,7 @@ icon: home
 index: false
 article: false
 
-breadcrumb: false
+# breadcrumb: false
 pageInfo: false
 contributors: false
 editLink: false
