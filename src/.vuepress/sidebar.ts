@@ -7,14 +7,15 @@ export default sidebar({
       icon: "home",
       prefix: "blog/",
       link: "blog/",
-    },
-    {
-      text: "Posts",
-      icon: "folder-open",
-      prefix: "blog/posts/",
-      link: "blog/posts/",
       children: "structure",
     },
+    // {
+    //   text: "Posts",
+    //   icon: "folder-open",
+    //   prefix: "blog/posts/",
+    //   link: "blog/posts/",
+    //   children: "structure",
+    // },
     {
       text: "Resume",
       icon: "lock",
@@ -34,6 +35,7 @@ export default sidebar({
     {
       text: "Books Home",
       icon: "landmark",
+      // children: "structure",
     },
     {
       text: "7가지코드", 
