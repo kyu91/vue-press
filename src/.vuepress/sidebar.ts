@@ -29,27 +29,20 @@ export default sidebar({
       link: "portfolio/",
       // children: "structure",
     },
+  ],
+  "/books/": [
     {
       text: "Books Home",
       icon: "book",
-      prefix: "books/",
-      link: "books/",
+      prefix: "",
+      link: "",
+    },
+    {
+      text: "7가지 코드",
+      icon: "folder-open",
+      prefix: "sacred-seven/",
+      link: "sacred-seven/",
       children: "structure",
     },
-  ],
-  // "/books/": [
-  //   {
-  //     text: "Books Home",
-  //     icon: "book",
-  //     prefix: "",
-  //     link: "",
-  //   },
-  //   {
-  //     text: "7가지 코드",
-  //     icon: "folder-open",
-  //     prefix: "Sacred-Seven/",
-  //     link: "Sacred-Seven/",
-  //     children: "structure",
-  //   },
-  // ]
+  ]
 });
