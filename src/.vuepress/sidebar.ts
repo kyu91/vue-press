@@ -38,5 +38,12 @@ export default sidebar({
       link: "books/",
       children: "structure",
     },
+    {
+      text: "7가지 코드",
+      icon: "folder-open",
+      prefix: "books/7가지 코드/",
+      link: "books/7가지 코드/",
+      children: "structure",
+    },
   ]
 });
