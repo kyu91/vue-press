@@ -1,8 +1,6 @@
 ---
 title: Blog Home
 icon: home
-# category:
-#   - Book
 index: false
 article: false
 

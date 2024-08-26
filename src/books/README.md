@@ -2,11 +2,6 @@
 title: Books
 index: false
 icon: book
-# category:
-#   - Book
-# category:
-#   - Book
-index: false
 article: false
 
 breadcrumb: false
