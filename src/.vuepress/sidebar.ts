@@ -41,8 +41,8 @@ export default sidebar({
     {
       text: "7가지 코드",
       icon: "folder-open",
-      prefix: "/Sacred-Seven",
-      link: "/Sacred-Seven/",
+      prefix: "Sacred-Seven/",
+      link: "Sacred-Seven/",
       children: "structure",
     },
   ]
