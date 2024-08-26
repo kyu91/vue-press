@@ -1,6 +1,6 @@
 ---
 title: Blog Home
-icon: home
+icon: blog
 index: false
 article: false
 

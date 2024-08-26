@@ -2,7 +2,7 @@
 home: true
 layout: BlogHome
 icon: home
-title: Blog Home
+title: Home
 # heroImage: "/logo.svg"
 heroText: 안녕하십쇼 🙂
 tagline: 재밌게 구경하고 가십쇼

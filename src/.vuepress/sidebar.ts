@@ -36,7 +36,7 @@ export default sidebar({
       icon: "folder-open",
       prefix: "blog/books/",
       link: "blog/books/",
-      children: "structure",
+      // children: "structure",
     },
   ]
 });
