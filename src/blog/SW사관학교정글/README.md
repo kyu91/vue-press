@@ -1,8 +1,8 @@
 ---
 title: SW사관학교정글
 icon: graduation-cap
-# index: false
-# article: false
+index: false
+article: false
 ---
 
 <Catalog />
