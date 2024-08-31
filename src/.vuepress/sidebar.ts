@@ -19,20 +19,23 @@ export default sidebar({
     //   link: "SW사관학교정글/",
     // },
   ],
-  "/blog/": [
-    {
-      text: "Blog Home",
-      icon: "blog",
-      children: ["Daily/", "Develop/", "PM/", "SaaS/", "SW사관학교정글/"]
-    },
-  ],
+  // "/blog/": [
+  //   {
+  //     text: "Blog Home",
+  //     icon: "blog",
+  //     children: ["Daily/", "Develop/", "PM/", "SaaS/", "SW사관학교정글/"],
+  //     // children: "structure"
+  //   },
+  // ],
+  "/blog/" : ["Daily/", "Develop/", "PM/", "SaaS/", "SW사관학교정글/"],
 
-  "/books/": [
-    {
-      text: "Books Home",
-      icon: "landmark",
-      children: ["Sacred-Seven/", "Repacking-Your-Bags/"],
-    },
-  ],
+  // "/books/": [
+  //   {
+  //     text: "Books Home",
+  //     icon: "landmark",
+  //     children: ["Sacred-Seven/", "Repacking-Your-Bags/"],
+  //   },
+  // ],
+  "/books/": ["Repacking-Your-Bags/", "Sacred-Seven/"],
   
 });
