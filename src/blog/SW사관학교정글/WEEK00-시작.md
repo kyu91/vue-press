@@ -4,7 +4,8 @@ icon: pen-to-square
 date: 2022-09-24
 order: 2
 category:
-  - SW사관학교정글
+    - All
+    - SW사관학교정글
 tags:
   - SW사관학교정글
   - Develop

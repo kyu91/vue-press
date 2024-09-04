@@ -17,35 +17,26 @@ export default navbar([
     text: "Blog",
     link: "/blog/README.md",
     icon: "blog",
-    // only active in `/guide/`
-    // activeMatch: "^/test/$",
   },
+  // {
+  //   text: "Category",
+  //   link: "/category/",
+  //   icon: "layer-group",
+  // },
+  // {
+  //   text: "Tag",
+  //   link: "/tag/",
+  //   icon: "tags",
+  // },
+  // {
+  //   text: "Timeline",
+  //   link: "/timeline/",
+  //   icon: "timeline",
+  // },
   {
-    text: "Books",
-    link: "/books/README.md",
-    icon: "book",
-    // only active in `/guide/`
-    // activeMatch: "^/test/$",
-  },
-  {
-    text: "Filter",
-    icon: "filter",
+    text: "Secret",
+    icon: "user-secret",
     children: [
-      {
-        text: "Category",
-        link: "/category/",
-        icon: "layer-group",
-      },
-      {
-        text: "Tag",
-        link: "/tag/",
-        icon: "tags",
-      },
-      {
-        text: "Timeline",
-        link: "/timeline/",
-        icon: "timeline",
-      },
       {
         text: "Resume",
         icon: "lock",
@@ -62,7 +53,7 @@ export default navbar([
   },
   {
     text: "Contact us",
-    link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave&tally-auto-close=0",
+    link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave",
     icon: "file-signature",
     // only active in `/guide/`
     // activeMatch: "^/test/$",

@@ -84,7 +84,7 @@ export default hopeTheme({
       //   icon: "https://theme-hope-assets.vuejs.press/logo.svg",
       //   link: "https://theme-hope.vuejs.press",
       // },
-    },
+    },  
   },
 
   metaLocales: {

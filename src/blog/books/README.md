@@ -1,5 +1,5 @@
 ---
-title: Books Home
+title: Books
 icon: landmark
 index: false
 article: false
