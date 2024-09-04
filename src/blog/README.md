@@ -1,28 +1,25 @@
 ---
-layout: BlogHome
-icon: blog
 title: Blog Home
+icon: blog
+index: false
+article: false
 
-projects:
-  - icon: layer-group
-    name: Category
-    desc: View by post categorys
-    link: ../category/
+pageInfo: false
+contributors: false
+editLink: false
+lastUpdated: false
+prev: false
+next: false
+comment: false
+footer: false
+toc : false
 
-  - icon: tags
-    name: Tags
-    desc: View by post tags
-    link: ../tag/
+backtotop: false
 
-  - icon: timeline
-    name: Timeline
-    desc: View by post timeline
-    link: ../timeline/
-
-  - icon: star
-    name: Star
-    desc: View by post star
-    link: ../star/
-
-footer: Good
+sitemap: false
 ---
+
+### 👋 안녕하세요
+블로그에 오신걸 환영합니다. <br/>포스트는 매주 일요일에 하나씩 업데이트 됩니다. 
+
+<Catalog />

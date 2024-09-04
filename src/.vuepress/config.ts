@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  lang: "ko-KR",
+  lang: "en-US",
   title: "It's Blog",
   description: "재미있게 성장하자",
 

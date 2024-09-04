@@ -15,7 +15,7 @@ export default navbar([
   },
   {
     text: "Blog",
-    link: "/blog/README.md",
+    link: "/article/",
     icon: "blog",
   },
   // {

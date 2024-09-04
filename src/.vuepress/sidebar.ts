@@ -23,9 +23,46 @@ export default sidebar({
 
   "/blog/": [
     {
-      // text: "Books Home",
-      // icon: "blog",
-      children: ["", "daily/", "develop/", "pm/", "saas/", "sw사관학교정글/", "books/"],
+      // children: ["", "daily/", "develop/", "pm/", "saas/", "sw사관학교정글/", "books/"],
+      children: [
+        "",
+        {
+          text: "PM",
+          icon: "compass",
+          prefix: "pm/",
+          link: "pm/",
+        },
+        {
+          text: "SaaS",
+          icon: "diagram-project",
+          prefix: "saas/",
+          link: "saas/",
+        },
+        {
+          text: "Develop",
+          icon: "laptop-code",
+          prefix: "develop/",
+          link: "develop/",
+        },
+        {
+          text: "Books",
+          icon: "landmark",
+          prefix: "books/",
+          link: "books/",
+        },
+        {
+          text: "SW사관학교정글",
+          icon: "graduation-cap",
+          prefix: "sw사관학교정글/",
+          link: "sw사관학교정글/",
+        },
+        {
+          text: "Daily",
+          icon: "calendar-days",
+          prefix: "daily/",
+          link: "daily/",
+        },
+      ],
     },
   ],
   

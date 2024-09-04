@@ -95,25 +95,22 @@ export default hopeTheme({
   // hotReload: true,
 
   plugins: {
-    blog: true,
-    // docsearch: {
-    //   appId: process.env.DOCSEARCH_APP_ID,  
-    //   apiKey: process.env.DOCSEARCH_APP_KEY,
-    //   indexName: process.env.DOCSEARCH_NAME,
-    //   searchParameters: {
-    //     facetFilters: ['tags:v2'],
-    //   },
-    //   locales: {
-    //     '/': {
-    //       placeholder: 'Search Documentation',
-    //       translations: {
-    //         button: {
-    //           buttonText: '검색하십쇼',
-    //         },
-    //       },
-    //     },
-    //   },
-    // },
+    // blog: true,
+    blog: {
+      type: [
+        {
+          key: "article-pm",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("PM"),
+          frontmatter: () => ({ title: "PM" }),
+        },
+        {
+          key: "article-develop",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Develop"),
+          frontmatter: () => ({ title: "Develop" }),
+        },
+      ],
+    },
+
 
     searchPro: true,
 

@@ -8,9 +8,6 @@ tags:
   - 7가지코드
   - ProductManager
   - Books
-
-# index: false
-# article: false
 ---
 
 - PM이라면 반드시 읽어야 할 필독서
