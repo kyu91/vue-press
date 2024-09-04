@@ -99,14 +99,19 @@ export default hopeTheme({
     blog: {
       type: [
         {
-          key: "article-pm",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("PM"),
-          frontmatter: () => ({ title: "PM" }),
+          key: "article-biz",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Biz"),
+          frontmatter: () => ({ title: "Biz" }),
         },
         {
-          key: "article-develop",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Develop"),
-          frontmatter: () => ({ title: "Develop" }),
+          key: "article-dev",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Dev"),
+          frontmatter: () => ({ title: "Dev" }),
+        },
+        {
+          key: "article-books",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Books"),
+          frontmatter: () => ({ title: "Books" }),
         },
       ],
     },

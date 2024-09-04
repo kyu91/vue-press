@@ -14,28 +14,13 @@ export default navbar([
     // activeMatch: "^/test/$",
   },
   {
-    text: "Blog",
+    text: "Article",
     link: "/article/",
-    icon: "blog",
+    icon: "newspaper",
   },
-  // {
-  //   text: "Category",
-  //   link: "/category/",
-  //   icon: "layer-group",
-  // },
-  // {
-  //   text: "Tag",
-  //   link: "/tag/",
-  //   icon: "tags",
-  // },
-  // {
-  //   text: "Timeline",
-  //   link: "/timeline/",
-  //   icon: "timeline",
-  // },
   {
-    text: "Secret",
-    icon: "user-secret",
+    text: "Lock",
+    icon: "lock",
     children: [
       {
         text: "Resume",

@@ -13,3 +13,43 @@
 .vp-hero-info-wrapper{
     text-align: center;
 }
+
+// .vp-sidebar-header{
+//     font-size: 1.5em;
+// }
+
+// .vp-sidebar {
+//     ul.vp-sidebar-links {
+//         // li 안에 section 요소가 있을 때, section 안의 p 태그만 타겟팅
+//         li {
+//             section {
+//                 > p {
+//                     font-size: 1.5em; // 원하는 크기로 설정
+//                 }
+//             }
+//         }
+//     }
+// }
+.vp-sidebar {
+    > ul{
+        // li 안에 있는 a 태그와 section 안의 p 태그에 각각 스타일 적용
+        > li {
+            // section 안의 p 태그 텍스트 크기 변경
+            section {
+                > p {
+                    // font-size: 1.3em; // 원하는 크기로 설정
+                    font-weight: 500;
+                    text-decoration: underline;
+                }
+            }
+        }
+    }
+}
+
+.vp-sidebar > ul.vp-sidebar-links > li > a {
+    font-weight: 500;
+    text-decoration: underline;
+}
+
+
+
