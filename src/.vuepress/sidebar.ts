@@ -3,12 +3,7 @@ import { sidebar } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "Home",
-      icon: "home",
-      link: "/",
-    },
-    {
-      text: "Aricle Main",
+      text: "All Article",
       icon: "newspaper",
       link: "article/",
     },
