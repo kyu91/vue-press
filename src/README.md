@@ -2,21 +2,17 @@
 home: true
 icon: home
 title: Home
-heroText: Updating...
-tagline: 기둘려주세여...✨
+heroText: Welecome😏
+tagline: Enjoy
 actions:
   - text: Go to Article
     link: /article/
     icon: signs-post
     type: primary
 
-  - text: Resume
+  - text: Contact me
     icon: lightbulb
-    link: /resume/
-
-  - text: Portfolio
-    icon: star
-    link: /portfolio/
+    link: /#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=%F0%9F%91%8B&tally-emoji-animation=wave/
 
 
 copyright: false
