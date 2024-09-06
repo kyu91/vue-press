@@ -5,20 +5,26 @@ title: Home
 heroText: Updating...
 tagline: 기둘려주세여...✨
 actions:
-  - text: Get Started
-    link: /get-started/
+  - text: Go to Article
+    link: /article/
     icon: signs-post
     type: primary
 
-  - text: Guide
+  - text: Resume
     icon: lightbulb
-    link: /guide/
+    link: /resume/
 
-  - text: Demos
+  - text: Portfolio
     icon: star
-    link: /demo/
+    link: /portfolio/
 
-features:
+
+copyright: false
+footer: MIT Licensed | Copyright © 2024-Levi
+---
+
+
+%% features:
   - title: Markdown Enhance
     icon: fab fa-markdown
     details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in Markdown
@@ -102,93 +108,4 @@ features:
   - title: More New Features
     icon: ellipsis
     details: Including icon support, fullscreen button, etc.
-    link: /guide/feature/
-
-copyright: false
-footer: MIT Licensed | Copyright © 2019-present Mr.Hope
----
-
-## 🛠Install
-
-Create a new vuepress-theme-hope project in `[dir]` directory under the current path:
-
-::: code-tabs#shell
-
-@tab pnpm
-
-```bash
-pnpm create vuepress-theme-hope [dir]
-```
-
-@tab yarn
-
-```bash
-yarn create vuepress-theme-hope [dir]
-```
-
-@tab npm
-
-```bash
-npm init vuepress-theme-hope@latest [dir]
-```
-
-:::
-
-To add vuepress-theme-hope as docs builder to an existing project, run the following command in the project root directory:
-
-::: code-tabs#shell
-
-@tab pnpm
-
-```bash
-pnpm create vuepress-theme-hope add [dir]
-```
-
-@tab yarn
-
-```bash
-yarn create vuepress-theme-hope add [dir]
-```
-
-@tab npm
-
-```bash
-npm init vuepress-theme-hope@latest add [dir]
-```
-
-:::
-
-## 🚀Usage
-
-::: code-tabs#language
-
-@tab TS
-
-```ts title=".vuepress/config.ts"
-import { defineUserConfig } from "vuepress";
-import { hopeTheme } from "vuepress-theme-hope";
-
-export default defineUserConfig({
-  theme: hopeTheme({
-    // your theme config here
-  }),
-});
-```
-
-@tab JS
-
-```js title=".vuepress/config.js"
-import { hopeTheme } from "vuepress-theme-hope";
-
-export default {
-  theme: hopeTheme({
-    // your theme config here
-  }),
-};
-```
-
-:::
-
-## Telegram Group
-
-- [vuepressthemehope](https://t.me/vuepressthemehope)
+    link: /guide/feature/ %%
