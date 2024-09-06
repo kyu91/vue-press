@@ -2,8 +2,8 @@
 home: true
 icon: home
 title: Home
-heroText: Welecome😏
-tagline: Enjoy
+heroText: Welecome!
+tagline: This is a blog I created for fun, Enjoy it 😏
 actions:
   - text: Go to Article
     link: /article/
