@@ -24,7 +24,8 @@ footer: MIT Licensed | Copyright © 2024-Levi
 ---
 
 
-%% features:
+<!--
+features:
   - title: Markdown Enhance
     icon: fab fa-markdown
     details: Add align, sup/sub script, footnote, tasklist, tex, flowchart, diagram, mark and presentation support in Markdown
@@ -109,3 +110,5 @@ footer: MIT Licensed | Copyright © 2024-Levi
     icon: ellipsis
     details: Including icon support, fullscreen button, etc.
     link: /guide/feature/ %%
+
+-->
