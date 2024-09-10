@@ -113,9 +113,7 @@ export default hopeTheme({
           frontmatter: () => ({ title: "Biz" }),
           // sorter를 사용하여 날짜 기준으로 내림차순 정렬
           sorter: (pageA, pageB) => {
-            const dateA = new Date(pageA.frontmatter.date).getTime();
-            const dateB = new Date(pageB.frontmatter.date).getTime();
-            return dateB - dateA; // 내림차순 정렬
+            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
           },
         },
         {
@@ -124,9 +122,7 @@ export default hopeTheme({
           frontmatter: () => ({ title: "Dev" }),
           // sorter를 사용하여 날짜 기준으로 내림차순 정렬
           sorter: (pageA, pageB) => {
-            const dateA = new Date(pageA.frontmatter.date).getTime();
-            const dateB = new Date(pageB.frontmatter.date).getTime();
-            return dateB - dateA; // 내림차순 정렬
+            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
           },
         },
         {
@@ -135,10 +131,8 @@ export default hopeTheme({
           frontmatter: () => ({ title: "Books" }),
           // sorter를 사용하여 날짜 기준으로 내림차순 정렬
           sorter: (pageA, pageB) => {
-            const dateA = new Date(pageA.frontmatter.date).getTime();
-            const dateB = new Date(pageB.frontmatter.date).getTime();
-            return dateB - dateA; // 내림차순 정렬
-          },         
+            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
+          },        
         },
       ],
     },
