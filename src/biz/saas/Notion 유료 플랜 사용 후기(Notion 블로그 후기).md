@@ -2,6 +2,8 @@
 title: Notion 유료 플랜 사용 후기(Notion 블로그 후기)
 icon: pen-to-square
 date: 2024-07-22
+dir:
+    date-desc
 category:
   - Biz
 tags:

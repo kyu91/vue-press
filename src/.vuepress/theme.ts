@@ -41,6 +41,15 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
+  //sidebar 정렬
+  //readme: README.md또는 readme.md첫 번째
+  // order: 양수 순서가 처음에 있고 값이 오름차순으로 정렬되고, 음수 순서가 마지막에 있고 값이 내림차순으로 정렬됩니다.
+  // date: 날짜 오름차순 정렬
+  // date-desc: 날짜 내림차순 정렬
+  // title: 제목별 알파벳순 정렬
+  // filename: 파일 이름별로 알파벳순 정렬
+  sidebarSorter: ["date"],
+
   footer: "Default footer",
 
   displayFooter: true,
@@ -102,16 +111,34 @@ export default hopeTheme({
           key: "article-biz",
           filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Biz"),
           frontmatter: () => ({ title: "Biz" }),
+          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+          sorter: (pageA, pageB) => {
+            const dateA = new Date(pageA.frontmatter.date).getTime();
+            const dateB = new Date(pageB.frontmatter.date).getTime();
+            return dateB - dateA; // 내림차순 정렬
+          },
         },
         {
           key: "article-dev",
           filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Dev"),
           frontmatter: () => ({ title: "Dev" }),
+          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+          sorter: (pageA, pageB) => {
+            const dateA = new Date(pageA.frontmatter.date).getTime();
+            const dateB = new Date(pageB.frontmatter.date).getTime();
+            return dateB - dateA; // 내림차순 정렬
+          },
         },
         {
           key: "article-books",
           filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Books"),
           frontmatter: () => ({ title: "Books" }),
+          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+          sorter: (pageA, pageB) => {
+            const dateA = new Date(pageA.frontmatter.date).getTime();
+            const dateB = new Date(pageB.frontmatter.date).getTime();
+            return dateB - dateA; // 내림차순 정렬
+          },         
         },
       ],
     },

@@ -2,6 +2,8 @@
 title: "삽질 그만하고 oopy.io 사용하기"
 icon: pen-to-square
 date: 2024-01-29
+dir:
+    date-desc
 category:
   - Biz
 tags:

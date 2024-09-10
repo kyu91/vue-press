@@ -3,6 +3,8 @@ title: "DDEVI로 어머니 회사 홈페이지 만들어 주기"
 icon: pen-to-square
 date: 2024-01-24
 star: true
+dir:
+    date-desc
 category:
   - Biz
 tags:

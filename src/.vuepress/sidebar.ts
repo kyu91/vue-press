@@ -1,4 +1,4 @@
-import { sidebar } from "vuepress-theme-hope";
+import { sidebar, sidebarDateSorter } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
@@ -30,7 +30,6 @@ export default sidebar({
     },
 
   ],
-
 
   // "/blog/biz/": [
   //   {
