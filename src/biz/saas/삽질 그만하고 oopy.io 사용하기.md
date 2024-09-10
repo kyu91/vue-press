@@ -7,6 +7,7 @@ category:
 tags:
   - Notion
   - oopy
+  - SaaS
 ---
 - 길었던 그동안의 삽질을 뒤로하고 oopy에 돈을 써보자
 <!-- more -->

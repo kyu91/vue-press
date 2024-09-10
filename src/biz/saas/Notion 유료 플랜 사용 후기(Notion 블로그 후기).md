@@ -6,6 +6,7 @@ category:
   - Biz
 tags:
   - Notion
+  - SaaS
 ---
 - Notion 유로 플랜 사용해보기
 <!-- more -->
