@@ -6,7 +6,16 @@
     aspect-ratio: 16 / 10;
 }
 
-.vp-blog-hero{
+#main-content.vp-portfolio-home {
+    padding-top: 0;
+}
+  
+
+.vp-portfolio-home{
+    padding-bottom:0;
+}
+
+#portfolio + div{
     display: none;
 }
 
@@ -14,22 +23,6 @@
     text-align: center;
 }
 
-// .vp-sidebar-header{
-//     font-size: 1.5em;
-// }
-
-// .vp-sidebar {
-//     ul.vp-sidebar-links {
-//         // li 안에 section 요소가 있을 때, section 안의 p 태그만 타겟팅
-//         li {
-//             section {
-//                 > p {
-//                     font-size: 1.5em; // 원하는 크기로 설정
-//                 }
-//             }
-//         }
-//     }
-// }
 .vp-sidebar {
     > ul{
         // li 안에 있는 a 태그와 section 안의 p 태그에 각각 스타일 적용

@@ -37,7 +37,7 @@ export default navbar([
     ],
   },
   {
-    text: "Contact us",
+    text: "Contact me",
     link: "#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=👋&tally-emoji-animation=wave",
     icon: "file-signature",
     // only active in `/guide/`
