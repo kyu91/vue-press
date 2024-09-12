@@ -55,7 +55,7 @@ highlights:
 
       - title: Books
         icon: book
-        details: heck out Books articles now.
+        details: Check out Books articles now.
         link: ./books/
 
       - title: Resume
