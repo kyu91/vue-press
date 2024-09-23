@@ -36,11 +36,11 @@ sitemap: false
 - 이름 : 홍석규(남)
 - 년생 : 1991년
 - 특기 : 시스템 분석, 서비스 분석, 기획서 작성, 문제 분석 및 해결점 모색
-- 취미 : 농구, 독서, 블로그 관리(포스트 작성, 코딩), Tools 사용하기, 강아지와 놀기 
+- 취미 : 농구, 독서, 블로그 관리, 새로나온 게임 하기, 새로나온 SaaS 써보기, 강아지와 놀기 
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
 - Blog : [https://www.levih.me](https://www.levih.me/)
 - Web에서 보는 Resume(pw는 파일명 확인) : [https://www.levih.me/resume](https://www.levih.me/resume)
-- Web에서 보는 Portfolio(pw는 파일명 확인: [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
+- Web에서 보는 Portfolio(pw는 파일명 확인): [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
 
 
 ## 💼 Experience.
@@ -80,7 +80,8 @@ sitemap: false
 - **근무 기간**
   - <u>2019.04.01 ~ 2022.09.01</u>(3년 6개월)
 - **담당 업무**
-  - <u>학회대상 SI 프로젝트 인바운드 영업 및 PM</u>
+  - <u>학회 Web 시스템 프로젝트 인바운드 영업 및 기획</u>
+  - <u>B2C 제품들에 대한 컨설팅 및 서비스 기획 총괄</u>
 - **주요 사업**
   - 학회 및 비영리단체의 홈페이지/Admin을 컨설팅, 구축, 운영
   - 오프라인 컨퍼런스에 필요한 사전등록/결제 시스템, 초록접수/심사시스템 기획,구축, 운영
