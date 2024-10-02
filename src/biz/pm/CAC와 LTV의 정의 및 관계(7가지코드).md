@@ -2,7 +2,6 @@
 title: "[용어]CAC와 LTV의 정의 및 관계(7가지코드)"
 icon: pen-to-square
 date: 2024-06-10
-star: true
 category:
   - Biz
 tags:

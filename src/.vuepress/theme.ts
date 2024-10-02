@@ -181,16 +181,27 @@ export default hopeTheme({
     //   },
     // ],
 
+    markdownHint: {
+      alert: true,
+      hint: true,
+    },
+
+    markdownTab: {
+      codeTabs: true,
+    },
+
+
     // These features are enabled for demo, only preserve features you need here
     mdEnhance: {
       align: true,
       attrs: true,
-      alert: true,
-      codetabs: true,
+      // alert: true,
+      // codetabs: true,
       component: true,
       demo: true,
       figure: true,
       imgLazyload: true,
+      imgMark: true,
       imgSize: true,
       include: true,
       mark: true,
