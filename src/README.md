@@ -10,7 +10,7 @@ actions:
     icon: signs-post
     type: primary
 
-  - text: Contact me
+  - text: Contact us
     icon: lightbulb
     link: /#tally-open=3Xq50O&tally-layout=modal&tally-emoji-text=%F0%9F%91%8B&tally-emoji-animation=wave/
 
