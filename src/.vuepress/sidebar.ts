@@ -26,6 +26,7 @@ export default sidebar({
       children: [
         "7가지코드/intro",
         "무엇이-나를-행복하게-만드는가",
+        "마케팅설계자/intro",
       ],
     },
 
