@@ -39,8 +39,9 @@ sitemap: false
 - 취미 : 농구, 독서, 블로그 관리, 새로나온 게임 하기, 새로나온 SaaS 써보기, 강아지와 놀기 
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
 - Blog : [https://www.levih.me](https://www.levih.me/)
-- Web에서 보는 Resume(pw는 파일명 확인) : [https://www.levih.me/resume](https://www.levih.me/resume)
-- Web에서 보는 Portfolio(pw는 파일명 확인): [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
+- Web에서 보는 Resume(pw: 0622) : [https://www.levih.me/resume](https://www.levih.me/resume)
+- Web에서 보는 Portfolio(pw: 0622): [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
+- Portfolio PDF : [http://naver.me/FCALR9wZ](http://naver.me/FCALR9wZ)
 
 
 ## 💼 Experience.

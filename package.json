@@ -11,15 +11,15 @@
     "docs:update-package": "pnpm dlx vp-update"
   },
   "devDependencies": {
-    "@vuepress/bundler-vite": "2.0.0-rc.17",
-    "@vuepress/plugin-docsearch": "2.0.0-rc.52",
-    "@vuepress/plugin-search": "2.0.0-rc.52",
-    "chart.js": "^4.4.4",
+    "@vuepress/bundler-vite": "2.0.0-rc.18",
+    "@vuepress/plugin-docsearch": "2.0.0-rc.61",
+    "@vuepress/plugin-search": "2.0.0-rc.61",
+    "chart.js": "^4.4.7",
     "reveal.js": "^5.1.0",
-    "sass-embedded": "^1.79.4",
-    "vue": "^3.5.10",
-    "vuepress": "2.0.0-rc.17",
-    "vuepress-plugin-search-pro": "2.0.0-rc.57",
-    "vuepress-theme-hope": "2.0.0-rc.58"
+    "sass-embedded": "^1.81.0",
+    "vue": "^3.5.13",
+    "vuepress": "2.0.0-rc.18",
+    "vuepress-plugin-search-pro": "2.0.0-rc.59",
+    "vuepress-theme-hope": "2.0.0-rc.59"
   }
 }
