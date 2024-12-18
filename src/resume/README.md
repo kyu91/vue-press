@@ -25,7 +25,7 @@ backtotop: false
 sitemap: false
 ---
 
-#### 재밌게 성장 하고 싶은 PM 입니다.
+# 이력서
 
 ## 🙇‍♂️ Introduction
 
@@ -41,9 +41,7 @@ sitemap: false
 - Blog : [https://www.levih.me](https://www.levih.me/)
 - Web에서 보는 Resume(pw: 0622) : [https://www.levih.me/resume](https://www.levih.me/resume)
 
-
 ## 💼 Experience.
-
 ::: details <b><u>Daewoongpet</u></b>
 - **근무 기간**
   - <u>2023.08.07 ~ 현재</u>
@@ -100,7 +98,6 @@ sitemap: false
 
 
 ## 🎓Education.
-
 ::: details <b><u>SW사관학교 정글</u></b>
 - **기간**
   - <u>2022.09.15 ~ 2023.02.15</u>(6개월)
@@ -137,7 +134,6 @@ sitemap: false
 :::
 
 ## 🛠️ Stat.
-
 ::: chart Skills
 
 ```json
