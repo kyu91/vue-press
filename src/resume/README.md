@@ -36,12 +36,10 @@ sitemap: false
 - 이름 : 홍석규(남)
 - 년생 : 1991년
 - 특기 : 시스템 분석, 서비스 분석, 기획서 작성, 문제 분석 및 해결점 모색
-- 취미 : 농구, 독서, 블로그 관리, 새로나온 게임 하기, 새로나온 SaaS 써보기, 강아지와 놀기 
+- 취미 : 농구, 독서, 블로그 관리, 새로나온 SaaS 써보기, 강아지와 놀기 
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
 - Blog : [https://www.levih.me](https://www.levih.me/)
 - Web에서 보는 Resume(pw: 0622) : [https://www.levih.me/resume](https://www.levih.me/resume)
-- Web에서 보는 Portfolio(pw: 0622): [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
-- Portfolio PDF : [http://naver.me/FCALR9wZ](http://naver.me/FCALR9wZ)
 
 
 ## 💼 Experience.
@@ -51,14 +49,15 @@ sitemap: false
   - <u>2023.08.07 ~ 현재</u>
 - **담당 업무**
   - <u>그룹사 반려동물 관련 Tech PM</u>
-- **주요 사업**
+  - <u>사내 생산성 혁신 업무</u>
+- **회사 주요 사업**
   - 반려동물 동물용 의약품, 건기식품 등을 개발하며, 반려동물 관련 App/Web 서비스를 운영
 - **내 업무**
-  - 반려동물 만성질환 관리 어플리케이션 개발 프로젝트 총괄 PM
-  - RPA(Robotic Process Automation) 도입 및 업무 효율화
-  - 대웅 그룹사 협업 프로젝트 펫사업부 대표
+  - 사내 생산성 혁신을 위한 업무 효율화
   - 사내 SaaS, 프로그램 도입 검토 및 교육
-  - 반려동물 온라인 추모관 홈페이지 마케팅 PM
+  - RPA(Robotic Process Automation) 도입 및 업무 효율화
+  - 반려동물 만성질환 관리 어플리케이션 개발 프로젝트 총괄 PM
+  - 대웅 그룹사 협업 프로젝트 펫사업부 대표
   - 수의사 전용 교육 플랫폼 콘텐츠 기획 및 마케팅 PM
 :::
 
