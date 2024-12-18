@@ -28,12 +28,12 @@ export default navbar([
         prefix: "resume/",
         link: "resume/",
       },
-      {
-        text: "Portfolio",
-        icon: "lock",
-        prefix: "portfolio/",
-        link: "portfolio/",
-      },
+      // {
+      //   text: "Portfolio",
+      //   icon: "lock",
+      //   prefix: "portfolio/",
+      //   link: "portfolio/",
+      // },
     ],
   },
   {
