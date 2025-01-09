@@ -21,7 +21,7 @@ export default hopeTheme({
 
   externalLinkIcon: true,
 
-  docsDir: "src",
+  docsDir: "src", 
 
   navbar,
 
