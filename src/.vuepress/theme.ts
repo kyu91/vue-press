@@ -2,6 +2,7 @@ import { hopeTheme } from "vuepress-theme-hope";
 
 import navbar from "./navbar.js";
 import sidebar from "./sidebar.js";
+import path from "path";
 
 
 export default hopeTheme({
@@ -12,29 +13,30 @@ export default hopeTheme({
     url: "https://levih.me",
   },
 
-  iconAssets: "fontawesome-with-brands",
-
   logo: "/logo.svg",
 
-  // repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "kyu91/kyu91.github.io",
+  repoLabel: "GitHub",
+  repoDisplay: true,
+
+  externalLinkIcon: true,
 
   docsDir: "src",
 
-  // navbar
   navbar,
 
   navbarLayout: {
     start: ["Brand"],
     center: ["Links"],
-    end: ["Search", "Outlook"],
+    end: ["Repo", "Outlook", "Search"],
   },
   
   encrypt: {
     config: {
       // This will encrypt the entire guide directory, and both passwords are available
-      "/resume/": process.env.RESUME_PW,
+      // "/resume/": process.env.RESUME_PW,
       // This will only encrypt /config/page.html
-      "/portfolio/": process.env.PORTFOLIO_PW,
+      // "/portfolio/": process.env.PORTFOLIO_PW,
     },
   },
 
@@ -137,20 +139,22 @@ export default hopeTheme({
       ],
     },
 
+    icon: {
+      assets: "fontawesome-with-brands",
+    },
 
-    // searchPro: true,
-
-    // Install @waline/client before enabling it 
-    // Note: This is for testing ONLY!
-    // You MUST generate and use your own comment service in production.
-    // comment: {
-    //   provider: "Waline",
-    //   serverURL: "https://waline-comment.vuejs.press", 
-    // },
+    //검색기능 추가
+    slimsearch: {
+      indexContent: true,
+      suggestion: false,
+      hotKeys: [{key: "k", ctrl: true}]
+    },
 
     components: {
       components: ["Badge", "VPCard"],
     },
+
+
   },
 
   markdown: {

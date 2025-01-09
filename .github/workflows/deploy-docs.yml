@@ -37,19 +37,16 @@ jobs:
           corepack enable
           pnpm install --frozen-lockfile
 
-      - name: Build Docs
-        env:
-          NODE_OPTIONS: --max_old_space_size=8192
-          # DOCSEARCH_APP_ID: ${{ secrets.DOCSEARCH_APP_ID }}
-          # DOCSEARCH_APP_KEY: ${{ secrets.DOCSEARCH_APP_KEY }}
-          # DOCSEARCH_NAME: ${{ secrets.DOCSEARCH_NAME }}
-          RESUME_PW: ${{ secrets.RESUME_PW }}
-          PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}
-        run: |-
-          pnpm run docs:build
-          > src/.vuepress/dist/.nojekyll
-          echo "RESUME_PW: ${{ secrets.RESUME_PW }}" >> .env
-          echo "PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}" >> .env
+      # - name: Build Docs
+      #   env:
+      #     NODE_OPTIONS: --max_old_space_size=8192
+      #     RESUME_PW: ${{ secrets.RESUME_PW }}
+      #     PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}
+      #   run: |-
+      #     pnpm run docs:build
+      #     > src/.vuepress/dist/.nojekyll
+      #     echo "RESUME_PW: ${{ secrets.RESUME_PW }}" >> .env
+      #     echo "PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}" >> .env
 
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4

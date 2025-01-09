@@ -3,15 +3,14 @@ home: true
 portfolio: true
 title: Portfolio
 # icon: book
-name: Seok Kyu Hong
+name: Levi-
 avatar: "/about.svg"
 
-welcome: '👋 Hi there, I am'
+welcome: '👋 Hi there, I am DX Manager'
 
 titles:
-  - PM으로 일하고 있고,
-  - 앞으로도 그럴 생각 입니다.
-  - 문의사항은 'Contact us'으로 작성해 주세요.
+  - 고객과 회사의 문제를 고민 하고,
+  - 이를 해결하는 것을 좋아합니다.
 
 footer: false
 ---

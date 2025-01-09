@@ -57,16 +57,6 @@ highlights:
         icon: book
         details: Check out Books articles now.
         link: ./books/
-
-      - title: Resume
-        icon: briefcase
-        details: View the homepage creator's resume.
-        link: ./resume/
-
-      - title: Portfolio
-        icon: address-book
-        details: View the homepage creator's portfolio.
-        link: ./portfolio/
       
       - title: Contact me
         icon: file-signature
