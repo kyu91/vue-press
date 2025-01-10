@@ -32,10 +32,11 @@ jobs:
           node-version: 20
           cache: pnpm
       
+      # 캐쉬제거
       - name: Clear pnpm cache
         run: |
           pnpm store prune
-          pnpm cache clear --all
+          rm -rf ~/.pnpm-store
 
       - name: Install Deps
         run: |
