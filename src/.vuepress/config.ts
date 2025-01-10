@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "ko-KR",
   title: "It's Blog",
-  description: "재미있게 성장하자",
+  description: "VuePress를 활용한 기술 블로그로, SEO, 웹 개발, Python, 그리고 생산성 관련 유익한 글을 제공합니다.",
 
   theme,
 
@@ -26,6 +26,80 @@ export default defineUserConfig({
         async: true,
         src: "https://tally.so/widgets/embed.js",
       }
+    ],
+    [
+      "meta",
+      {
+        name: "keywords",
+        content: "VuePress, 기술 블로그, SEO, 웹 개발, Python, 생산성, Vue, 개발자, Tools, 자동화, levi",
+      },
+    ],
+
+    // Meta Tags
+    [
+      "link",
+      {
+        rel: "canonical",
+        href: "https://www.levih.me/",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "description",
+        content: "VuePress로 제작된 기술 블로그로, SEO, 웹 개발, Python 등 유익한 정보를 제공합니다.",
+      },
+    ],
+    [
+      "meta",
+      {
+        property: "og:description",
+        content: "VuePress로 제작된 기술 블로그로, SEO, 웹 개발, Python 등 유익한 정보를 제공합니다.",
+      },
+    ],
+    [
+      "meta",
+      {
+        property: "og:locale:alternate",
+        content: "en-US",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "robots",
+        content: "index, follow",
+      },
+    ],
+
+    // Twitter Tags
+    [
+      "meta",
+      {
+        name: "twitter:card",
+        content: "summary_large_image",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:title",
+        content: "It's Blog",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:description",
+        content: "VuePress로 제작된 기술 블로그로, SEO, 웹 개발, Python 등 유익한 정보를 제공합니다.",
+      },
+    ],
+    [
+      "meta",
+      {
+        name: "twitter:image",
+        content: "https://www.levih.me/about.svg", // 적절한 이미지 URL로 변경
+      },
     ],
   ],
 
