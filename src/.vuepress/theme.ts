@@ -106,38 +106,40 @@ export default hopeTheme({
   // hotReload: true,
 
   plugins: {
-    // blog: true,
-    blog: {
-      type: [
-        {
-          key: "article-tech-product",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Tech Product"),
-          frontmatter: () => ({ title: "Tech Product" }),
-          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
-          sorter: (pageA, pageB) => {
-            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
-          },
-        },
-        {
-          key: "article-dev",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Dev"),
-          frontmatter: () => ({ title: "Dev" }),
-          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
-          sorter: (pageA, pageB) => {
-            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
-          },
-        },
-        {
-          key: "article-books",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Books"),
-          frontmatter: () => ({ title: "Books" }),
-          // sorter를 사용하여 날짜 기준으로 내림차순 정렬
-          sorter: (pageA, pageB) => {
-            return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
-          },        
-        },
-      ],
-    },
+    blog: true,
+
+    // //아티클 페이지 커스텀
+    // blog: {
+    //   type: [
+    //     {
+    //       key: "article-tech-product",
+    //       filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Tech Product"),
+    //       frontmatter: () => ({ title: "Tech Product" }),
+    //       // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+    //       sorter: (pageA, pageB) => {
+    //         return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
+    //       },
+    //     },
+    //     {
+    //       key: "article-dev",
+    //       filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Dev"),
+    //       frontmatter: () => ({ title: "Dev" }),
+    //       // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+    //       sorter: (pageA, pageB) => {
+    //         return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
+    //       },
+    //     },
+    //     {
+    //       key: "article-books",
+    //       filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Books"),
+    //       frontmatter: () => ({ title: "Books" }),
+    //       // sorter를 사용하여 날짜 기준으로 내림차순 정렬
+    //       sorter: (pageA, pageB) => {
+    //         return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();
+    //       },        
+    //     },
+    //   ],
+    // },
 
     icon: {
       assets: "fontawesome-with-brands",
@@ -153,7 +155,9 @@ export default hopeTheme({
     components: {
       components: ["Badge", "VPCard"],
     },
-
+    feed :{
+      rss: true,
+    }
 
   },
 

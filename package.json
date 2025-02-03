@@ -23,6 +23,7 @@
   },
   "dependencies": {
     "@vue/repl": "^4.5.0",
+    "@vuepress/plugin-feed": "2.0.0-rc.3",
     "@vuepress/plugin-revealjs": "2.0.0-rc.74",
     "@vuepress/plugin-slimsearch": "2.0.0-rc.74",
     "echarts": "^5.6.0",

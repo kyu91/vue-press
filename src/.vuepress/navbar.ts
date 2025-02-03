@@ -7,16 +7,37 @@ export default navbar([
     icon: "home",
   },
   {
+    text: "Star Post",
+    link: "/star/",
+    icon: "star",
+  },
+  {
+    text: "Category",
+    icon: "folder",
+    children: [
+      {
+        text: "Tech Product",
+        link: "/category/tech-product/",
+        icon: "apple-whole",
+      },
+      {
+        text: "Dev",
+        link: "/category/dev/",
+        icon: "laptop",
+      },
+      {
+        text: "Books",
+        link: "/category/books/",
+        icon: "book",
+      },
+    ],
+  },
+  {
     text: "About",
     link: "/about/README.md",
     icon: "user",
     // only active in `/guide/`
     // activeMatch: "^/test/$",
-  },
-  {
-    text: "Article",
-    link: "/article/",
-    icon: "newspaper",
   },
   {
     text: "Contact us",

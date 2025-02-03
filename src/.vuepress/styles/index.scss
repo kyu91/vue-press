@@ -23,6 +23,10 @@
     text-align: center;
 }
 
+.vp-blog-mask {
+    background: transparent !important;
+}
+
 .vp-sidebar {
     > ul{
         // li 안에 있는 a 태그와 section 안의 p 태그에 각각 스타일 적용
