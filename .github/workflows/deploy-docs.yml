@@ -22,8 +22,8 @@ jobs:
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
-        # with:
-        #   version: 8
+        with:
+          run_install: false  # 이미 pnpm 설치되므로 별도 실행하지 않음
 
 
       - name: Setup Node.js
@@ -38,10 +38,10 @@ jobs:
       #     pnpm store prune
       #     rm -rf ~/.pnpm-store
 
-      - name: Install Deps
-        run: |
-          corepack enable
-          pnpm install --frozen-lockfile
+      # - name: Install Deps
+      #   run: |
+      #     corepack enable
+      #     pnpm install --frozen-lockfile
 
       - name: Build Docs
         env:
