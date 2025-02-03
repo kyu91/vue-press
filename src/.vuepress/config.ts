@@ -60,13 +60,6 @@ export default defineUserConfig({
     [
       "meta",
       {
-        property: "og:locale:alternate",
-        content: "en-US",
-      },
-    ],
-    [
-      "meta",
-      {
         name: "robots",
         content: "index, follow",
       },
