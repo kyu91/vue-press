@@ -3,11 +3,6 @@ import { sidebar, sidebarDateSorter } from "vuepress-theme-hope";
 export default sidebar({
   "/": [
     {
-      text: "All Article",
-      icon: "newspaper",
-      link: "article/",
-    },
-    {
       text: "Tech Product",
       icon: "apple-whole",
       prefix: "tech-product/",
