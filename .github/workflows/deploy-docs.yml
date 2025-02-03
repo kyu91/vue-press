@@ -1,4 +1,3 @@
-
 name: Deploy Docs
 
 on:
@@ -13,50 +12,40 @@ jobs:
   deploy-gh-pages:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
+      - name: Checkout Repository
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
-          # if your docs needs submodules, uncomment the following line
-          # submodules: true
 
       - name: Setup pnpm
         uses: pnpm/action-setup@v4
         with:
-          run_install: false  # 이미 pnpm 설치되므로 별도 실행하지 않음
-
+          run_install: false
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: 20
           cache: pnpm
-      
-      # # 캐쉬제거
-      # - name: Clear pnpm cache
-      #   run: |
-      #     pnpm store prune
-      #     rm -rf ~/.pnpm-store
 
-      # - name: Install Deps
-      #   run: |
-      #     corepack enable
-      #     pnpm install --frozen-lockfile
+      # 캐시 제거 (선택 사항, 필요 시 활성화)
+      - name: Clear pnpm cache
+        run: |
+          pnpm store prune
+          rm -rf ~/.pnpm-store
+
+      - name: Install Dependencies
+        run: pnpm install --frozen-lockfile
 
       - name: Build Docs
         env:
           NODE_OPTIONS: --max_old_space_size=8192
-      #     RESUME_PW: ${{ secrets.RESUME_PW }}
-      #     PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}
-        run: |-
+        run: |
           pnpm run docs:build
-          > src/.vuepress/dist/.nojekyll
-      #     echo "RESUME_PW: ${{ secrets.RESUME_PW }}" >> .env
-      #     echo "PORTFOLIO_PW: ${{ secrets.PORTFOLIO_PW }}" >> .env
+          touch src/.vuepress/dist/.nojekyll
 
       - name: Deploy Docs
         uses: JamesIves/github-pages-deploy-action@v4
         with:
-          # Deploy Docs
           branch: gh-pages
           folder: src/.vuepress/dist
