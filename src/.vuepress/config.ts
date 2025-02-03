@@ -34,6 +34,14 @@ export default defineUserConfig({
         content: "VuePress, 기술 블로그, SEO, 웹 개발, Python, 생산성, Vue, 개발자, Tools, 자동화, levi",
       },
     ],
+    // 🔹 네이버 웹마스터도구 사이트 인증 태그 추가
+    [
+      "meta",
+      {
+        name: "naver-site-verification",
+        content: "c9aa016fd222261011af1571bbf97b7cabc625e8",
+      },
+    ],
 
     // Meta Tags
     [
