@@ -110,9 +110,9 @@ export default hopeTheme({
     blog: {
       type: [
         {
-          key: "article-biz",
-          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Biz"),
-          frontmatter: () => ({ title: "Biz" }),
+          key: "article-tech-product",
+          filter: (page) => Array.isArray(page.frontmatter.category) && page.frontmatter.category.includes("Tech Product"),
+          frontmatter: () => ({ title: "Tech Product" }),
           // sorter를 사용하여 날짜 기준으로 내림차순 정렬
           sorter: (pageA, pageB) => {
             return new Date(pageB.frontmatter.date).getTime() - new Date(pageA.frontmatter.date).getTime();

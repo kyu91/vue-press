@@ -8,9 +8,9 @@ export default sidebar({
       link: "article/",
     },
     {
-      text: "Biz",
+      text: "Tech Product",
       icon: "apple-whole",
-      prefix: "biz/",
+      prefix: "tech-product/",
       children: "structure",
     },
     {
@@ -31,30 +31,5 @@ export default sidebar({
     },
 
   ],
-
-  // "/blog/biz/": [
-  //   {
-  //     text: "Biz",
-  //     icon: "b",
-  //     link: "/blog/biz/",
-  //     children: 'structure',
-  //   },
-  // ],
-  // "/blog/dev/": [
-  //   {
-  //     text: "Dev",
-  //     icon: "b",
-  //     link: "/blog/dev/",
-  //     children: 'structure',
-  //   },
-  // ],
-  // "/blog/books/": [
-  //   {
-  //     text: "Books",
-  //     icon: "b",
-  //     link: "/blog/books/",
-  //     children: 'structure',
-  //   },
-  // ]
   
 });

@@ -3,7 +3,7 @@ title: "URL을 이해하고 업무효율 증가 및 개인보안 강화하기"
 icon: pen-to-square
 date: 2024-07-05
 category:
-  - Biz
+  - Tech Product
 tags:
   - Security
   - Domain

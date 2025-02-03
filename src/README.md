@@ -43,10 +43,10 @@ highlights:
         details: View articles by timeline.
         link: ./timeline/
 
-      - title: Business
+      - title: Tech Product
         icon: apple-whole
-        details: Check out Business articles now.
-        link: ./biz/
+        details: Check out Tech Product articles now.
+        link: ./tech-product/
 
       - title: Development
         icon: code

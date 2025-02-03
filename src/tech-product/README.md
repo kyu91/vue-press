@@ -1,8 +1,8 @@
 ---
-title: Biz
+title: Tech Product
 icon: apple-whole
 category:
-  - Dev
+  - Tech Product
 article: false
 index: false
 ---

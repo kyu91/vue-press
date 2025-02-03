@@ -3,7 +3,7 @@ title: "[용어] 검색 엔진 최적화(SEO) 정의와 적용 방법"
 icon: pen-to-square
 date: 2024-06-11
 category:
-  - Biz
+  - Tech Product
 tags:
   - ProductManager
   - Marketing

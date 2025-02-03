@@ -6,7 +6,7 @@ star: true
 dir:
     date-desc
 category:
-  - Biz
+  - Tech Product
 tags:
   - SaaS
   - Web

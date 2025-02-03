@@ -3,7 +3,7 @@ title: "MVP와 RAT에 대한 정리"
 icon: pen-to-square
 date: 2024-08-03
 category:
-  - Biz
+  - Tech Product
 tags:
   - ProductManager
   - Marketing

@@ -22,7 +22,7 @@ tags:
 연세가 벌써 60 중반대이시다 보니 이런 데이터들을 관리하는데 어려움이 있다고 하셨다.  
 현재는 엑셀로 관리를 하고 있는데, 거의 5년 넘게 저장한 데이터들을 관리하다 보니 어려운 점이 한두개가 아니라고 하셨다.  
 그래서 효자인 나는 이 문제를 해결해 보고자 하였다.  
-[DDEVI로 어머니 회사 홈페이지 만들어 주기 글](https://www.levih.me/biz/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html) 참고하기
+[DDEVI로 어머니 회사 홈페이지 만들어 주기 글](https://www.levih.me/tech-product/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html) 참고하기
 
 ## 데이터 관리 현황
 - 달력 포맷으로 관리하는 엑셀 파일이 있고, 해당 파일에서 약 7년간의 예약 일정을 관리중

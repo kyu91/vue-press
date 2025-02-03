@@ -5,7 +5,7 @@ date: 2024-07-22
 dir:
     date-desc
 category:
-  - Biz
+  - Tech Product
 tags:
   - Notion
   - SaaS

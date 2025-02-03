@@ -5,7 +5,7 @@ date: 2024-01-29
 dir:
     date-desc
 category:
-  - Biz
+  - Tech Product
 tags:
   - Notion
   - oopy
