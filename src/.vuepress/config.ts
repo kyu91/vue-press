@@ -5,7 +5,7 @@ import theme from "./theme.js";
 export default defineUserConfig({
   base: "/",
 
-  lang: "ko-KR",
+  lang: "ko",
   title: "It's Blog",
   description: "VuePress를 활용한 기술 블로그로, SEO, 웹 개발, Python, 그리고 생산성 관련 유익한 글을 제공합니다.",
 
