@@ -24,6 +24,14 @@ export default defineUserConfig({
       "script",
       {
         async: true,
+        src: "https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2964121704331756",
+        crossorigin: "anonymous"
+      },
+    ],
+    [
+      "script",
+      {
+        async: true,
         src: "https://tally.so/widgets/embed.js",
       }
     ],

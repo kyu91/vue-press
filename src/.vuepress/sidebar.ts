@@ -2,6 +2,7 @@ import { sidebar, sidebarDateSorter } from "vuepress-theme-hope";
 
 export default sidebar({
   "/": [
+    
     {
       text: "Tech Product",
       icon: "apple-whole",
