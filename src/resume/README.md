@@ -38,6 +38,7 @@ sitemap: false
 - 특기 : 시스템 분석, 서비스 분석, 기획서 작성, 문제 분석 및 해결점 모색
 - 취미 : 농구, 독서, 블로그 관리, 새로나온 SaaS 써보기, 강아지와 놀기 
 - Email : [hongsk5689@gamil.com](mailto:hongsk5689@gamil.com)
+- Portfolio : [https://www.levih.me/portfolio](https://www.levih.me/portfolio)
 - Blog : [https://www.levih.me](https://www.levih.me/)
 
 ## 💼 Experience.
