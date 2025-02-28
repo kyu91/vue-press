@@ -6,11 +6,11 @@ import path from "path";
 
 
 export default hopeTheme({
-  hostname: "https://www.levih.me",
+  hostname: "https://www.h-levi.me/vue-press",
 
   author: {
     name: "Levi",
-    url: "https://levih.me",
+    url: "https://www.h-levi.me",
   },
 
   logo: "/logo.svg",
