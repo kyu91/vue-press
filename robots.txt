@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://www.levih.me/vue-press/sitemap.xml
+Sitemap: https://www.h-levi.me/vue-press/vue-press/sitemap.xml

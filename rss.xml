@@ -1,13 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.levih.me/vue-press/rss.xsl"?>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="https://www.h-levi.me/vue-press/vue-press/rss.xsl"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/elements/1.1/">
   <channel>
-    <atom:link href="https://www.levih.me/vue-press/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://www.h-levi.me/vue-press/vue-press/rss.xml" rel="self" type="application/rss+xml"/>
     <title>It&amp;apos;s Blog</title>
-    <link>https://www.levih.me/vue-press/</link>
+    <link>https://www.h-levi.me/vue-press/vue-press/</link>
     <description>VuePress를 활용한 기술 블로그로, SEO, 웹 개발, Python, 그리고 생산성 관련 유익한 글을 제공합니다.</description>
     <language>ko</language>
-    <pubDate>Fri, 28 Feb 2025 14:57:45 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Feb 2025 14:57:45 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Feb 2025 15:03:53 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Feb 2025 15:03:53 GMT</lastBuildDate>
     <generator>@vuepress/plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <category>Books</category>
@@ -15,9 +15,9 @@
     <category>Dev</category>
     <item>
       <title>마케팅 설계자-총정리</title>
-      <link>https://www.levih.me/vue-press/books/%EB%A7%88%EC%BC%80%ED%8C%85%EC%84%A4%EA%B3%84%EC%9E%90/intro.html</link>
-      <guid>https://www.levih.me/vue-press/books/%EB%A7%88%EC%BC%80%ED%8C%85%EC%84%A4%EA%B3%84%EC%9E%90/intro.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">마케팅 설계자-총정리</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/books/%EB%A7%88%EC%BC%80%ED%8C%85%EC%84%A4%EA%B3%84%EC%9E%90/intro.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/books/%EB%A7%88%EC%BC%80%ED%8C%85%EC%84%A4%EA%B3%84%EC%9E%90/intro.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">마케팅 설계자-총정리</source>
       <description>마케팅 시스템의 설계법과 퍼널에 대해 정리한 책</description>
       <category>Books</category>
       <pubDate>Mon, 04 Nov 2024 00:00:00 GMT</pubDate>
@@ -34,9 +34,9 @@
     </item>
     <item>
       <title>문제를 해결한다는 것에 대한 나의 고찰</title>
-      <link>https://www.levih.me/vue-press/tech-product/pm/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/pm/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">문제를 해결한다는 것에 대한 나의 고찰</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/%EB%AC%B8%EC%A0%9C%EB%A5%BC-%ED%95%B4%EA%B2%B0%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">문제를 해결한다는 것에 대한 나의 고찰</source>
       <description>&amp;apos;문제해결&amp;apos; 이라는 것에 대한 내 생각을 정리한다.</description>
       <category>Tech Product</category>
       <pubDate>Wed, 02 Oct 2024 00:00:00 GMT</pubDate>
@@ -102,9 +102,9 @@
     </item>
     <item>
       <title>Python으로 고객 관리 시스템 만들기-MVP 설계편</title>
-      <link>https://www.levih.me/vue-press/dev/Python-PyQt5-MVP.html</link>
-      <guid>https://www.levih.me/vue-press/dev/Python-PyQt5-MVP.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">Python으로 고객 관리 시스템 만들기-MVP 설계편</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/Python-PyQt5-MVP.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/Python-PyQt5-MVP.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">Python으로 고객 관리 시스템 만들기-MVP 설계편</source>
       <description>아버님 사무실에 놀러갔다가 명령 받은 고객관리 시스템 구축 과정을 정리한다.</description>
       <category>Dev</category>
       <pubDate>Fri, 27 Sep 2024 00:00:00 GMT</pubDate>
@@ -162,9 +162,9 @@
     </item>
     <item>
       <title>VPN, VPC, VPS 정리</title>
-      <link>https://www.levih.me/vue-press/dev/VPN-VPC-VPS-%EC%A0%95%EB%A6%AC.html</link>
-      <guid>https://www.levih.me/vue-press/dev/VPN-VPC-VPS-%EC%A0%95%EB%A6%AC.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">VPN, VPC, VPS 정리</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/VPN-VPC-VPS-%EC%A0%95%EB%A6%AC.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/VPN-VPC-VPS-%EC%A0%95%EB%A6%AC.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">VPN, VPC, VPS 정리</source>
       <description>네트워크에 대한 기본 용어 정의</description>
       <category>Dev</category>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
@@ -219,9 +219,9 @@
     </item>
     <item>
       <title>DDEVI로 어머니 회사 홈페이지 만들어 주기</title>
-      <link>https://www.levih.me/vue-press/tech-product/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">DDEVI로 어머니 회사 홈페이지 만들어 주기</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/DDEVI%EB%A1%9C-%EC%96%B4%EB%A8%B8%EB%8B%88-%ED%9A%8C%EC%82%AC-%ED%99%88%ED%8E%98%EC%9D%B4%EC%A7%80-%EB%A7%8C%EB%93%A4%EC%96%B4-%EC%A3%BC%EA%B8%B0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">DDEVI로 어머니 회사 홈페이지 만들어 주기</source>
       <description>ddevi로 어머니 회사 홈페이지 만들어 주기로 했다. 난 효자다</description>
       <category>Tech Product</category>
       <pubDate>Wed, 24 Jan 2024 00:00:00 GMT</pubDate>
@@ -270,9 +270,9 @@
     </item>
     <item>
       <title>MVP와 RAT에 대한 정리</title>
-      <link>https://www.levih.me/vue-press/tech-product/pm/MVP%EC%99%80%20RAT%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%95%EB%A6%AC.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/pm/MVP%EC%99%80%20RAT%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%95%EB%A6%AC.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">MVP와 RAT에 대한 정리</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/MVP%EC%99%80%20RAT%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%95%EB%A6%AC.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/MVP%EC%99%80%20RAT%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%A0%95%EB%A6%AC.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">MVP와 RAT에 대한 정리</source>
       <description>7가지 코드를 읽다가 배운 MVP와 RAT에 대해 정리해보자</description>
       <category>Tech Product</category>
       <pubDate>Sat, 03 Aug 2024 00:00:00 GMT</pubDate>
@@ -352,9 +352,9 @@
     </item>
     <item>
       <title>Notion 유료 플랜 사용 후기(Notion 블로그 후기)</title>
-      <link>https://www.levih.me/vue-press/tech-product/saas/Notion%20%EC%9C%A0%EB%A3%8C%20%ED%94%8C%EB%9E%9C%20%EC%82%AC%EC%9A%A9%20%ED%9B%84%EA%B8%B0(Notion%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%ED%9B%84%EA%B8%B0).html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/saas/Notion%20%EC%9C%A0%EB%A3%8C%20%ED%94%8C%EB%9E%9C%20%EC%82%AC%EC%9A%A9%20%ED%9B%84%EA%B8%B0(Notion%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%ED%9B%84%EA%B8%B0).html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">Notion 유료 플랜 사용 후기(Notion 블로그 후기)</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/Notion%20%EC%9C%A0%EB%A3%8C%20%ED%94%8C%EB%9E%9C%20%EC%82%AC%EC%9A%A9%20%ED%9B%84%EA%B8%B0(Notion%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%ED%9B%84%EA%B8%B0).html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/Notion%20%EC%9C%A0%EB%A3%8C%20%ED%94%8C%EB%9E%9C%20%EC%82%AC%EC%9A%A9%20%ED%9B%84%EA%B8%B0(Notion%20%EB%B8%94%EB%A1%9C%EA%B7%B8%20%ED%9B%84%EA%B8%B0).html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">Notion 유료 플랜 사용 후기(Notion 블로그 후기)</source>
       <description>Notion 유로 플랜 사용해보기</description>
       <category>Tech Product</category>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
@@ -442,9 +442,9 @@
     </item>
     <item>
       <title>WEEK00-시작</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%8B%9C%EC%9E%91.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%8B%9C%EC%9E%91.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK00-시작</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%8B%9C%EC%9E%91.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%8B%9C%EC%9E%91.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK00-시작</source>
       <description>SW사관학교 정글 5기 00주차 후기</description>
       <category>Dev</category>
       <pubDate>Sat, 24 Sep 2022 00:00:00 GMT</pubDate>
@@ -605,9 +605,9 @@
     </item>
     <item>
       <title>WEEK00-입성전</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%9E%85%EC%84%B1%EC%A0%84.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%9E%85%EC%84%B1%EC%A0%84.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK00-입성전</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%9E%85%EC%84%B1%EC%A0%84.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK00-%EC%9E%85%EC%84%B1%EC%A0%84.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK00-입성전</source>
       <description>SW사관학교 정글 5기 00주차 입성 전 후기</description>
       <category>Dev</category>
       <pubDate>Sat, 24 Sep 2022 00:00:00 GMT</pubDate>
@@ -687,9 +687,9 @@
     </item>
     <item>
       <title>WEEK02-회고</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK02-%ED%9A%8C%EA%B3%A0.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK02-%ED%9A%8C%EA%B3%A0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK02-회고</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK02-%ED%9A%8C%EA%B3%A0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK02-%ED%9A%8C%EA%B3%A0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK02-회고</source>
       <description>SW사관학교 정글 5기 2주차 회고</description>
       <category>Dev</category>
       <pubDate>Fri, 07 Oct 2022 00:00:00 GMT</pubDate>
@@ -769,9 +769,9 @@
     </item>
     <item>
       <title>WEEK03-회고</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK03-%ED%9A%8C%EA%B3%A0.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK03-%ED%9A%8C%EA%B3%A0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK03-회고</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK03-%ED%9A%8C%EA%B3%A0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK03-%ED%9A%8C%EA%B3%A0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK03-회고</source>
       <description>SW사관학교 정글 5기 3주차 회고</description>
       <category>Dev</category>
       <pubDate>Sat, 15 Oct 2022 00:00:00 GMT</pubDate>
@@ -861,9 +861,9 @@
     </item>
     <item>
       <title>WEEK05-RedBlackTree 구현_C</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK05-RedBlackTree%20%EA%B5%AC%ED%98%84_C.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK05-RedBlackTree%20%EA%B5%AC%ED%98%84_C.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK05-RedBlackTree 구현_C</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK05-RedBlackTree%20%EA%B5%AC%ED%98%84_C.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK05-RedBlackTree%20%EA%B5%AC%ED%98%84_C.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK05-RedBlackTree 구현_C</source>
       <description>SW사관학교 정글 5기 5주차 회고</description>
       <category>Dev</category>
       <pubDate>Fri, 11 Nov 2022 00:00:00 GMT</pubDate>
@@ -877,9 +877,9 @@
     </item>
     <item>
       <title>WEEK06-malloc함수 구현_C</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK06-malloc%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84_C.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK06-malloc%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84_C.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK06-malloc함수 구현_C</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK06-malloc%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84_C.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK06-malloc%ED%95%A8%EC%88%98%20%EA%B5%AC%ED%98%84_C.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK06-malloc함수 구현_C</source>
       <description>SW사관학교 정글 5기 6주차 회고</description>
       <category>Dev</category>
       <pubDate>Sat, 12 Nov 2022 00:00:00 GMT</pubDate>
@@ -893,9 +893,9 @@
     </item>
     <item>
       <title>WEEK07-웹 서버 구축(Tiny서버, Proxy)_C언어</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK07-%EC%9B%B9%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95(Tiny%EC%84%9C%EB%B2%84_%20Proxy)_C%EC%96%B8%EC%96%B4.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK07-%EC%9B%B9%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95(Tiny%EC%84%9C%EB%B2%84_%20Proxy)_C%EC%96%B8%EC%96%B4.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK07-웹 서버 구축(Tiny서버, Proxy)_C언어</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK07-%EC%9B%B9%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95(Tiny%EC%84%9C%EB%B2%84_%20Proxy)_C%EC%96%B8%EC%96%B4.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK07-%EC%9B%B9%20%EC%84%9C%EB%B2%84%20%EA%B5%AC%EC%B6%95(Tiny%EC%84%9C%EB%B2%84_%20Proxy)_C%EC%96%B8%EC%96%B4.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK07-웹 서버 구축(Tiny서버, Proxy)_C언어</source>
       <description>SW사관학교 정글 5기 7주차 회고</description>
       <category>Dev</category>
       <pubDate>Sun, 13 Nov 2022 00:00:00 GMT</pubDate>
@@ -909,9 +909,9 @@
     </item>
     <item>
       <title>WEEK08-PintOS_Project1_Threads</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK08-PintOS_Project1_Threads.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK08-PintOS_Project1_Threads.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK08-PintOS_Project1_Threads</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK08-PintOS_Project1_Threads.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK08-PintOS_Project1_Threads.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK08-PintOS_Project1_Threads</source>
       <description>SW사관학교 정글 5기 8주차 회고</description>
       <category>Dev</category>
       <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
@@ -1011,9 +1011,9 @@
     </item>
     <item>
       <title>WEEK09-Pintos_Project2_User Program</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK09-Pintos_Project2_User%20Program.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK09-Pintos_Project2_User%20Program.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK09-Pintos_Project2_User Program</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK09-Pintos_Project2_User%20Program.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK09-Pintos_Project2_User%20Program.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK09-Pintos_Project2_User Program</source>
       <description>SW사관학교 정글 5기 9주차 회고</description>
       <category>Dev</category>
       <pubDate>Tue, 29 Nov 2022 00:00:00 GMT</pubDate>
@@ -1248,9 +1248,9 @@
     </item>
     <item>
       <title>WEEK10-회고</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10-%ED%9A%8C%EA%B3%A0.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10-%ED%9A%8C%EA%B3%A0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK10-회고</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10-%ED%9A%8C%EA%B3%A0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10-%ED%9A%8C%EA%B3%A0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK10-회고</source>
       <description>SW사관학교 정글 5기 10주차 회고</description>
       <category>Dev</category>
       <pubDate>Fri, 02 Dec 2022 00:00:00 GMT</pubDate>
@@ -1348,9 +1348,9 @@
     </item>
     <item>
       <title>WEEK10~13-Pintos_Project3_Virtual Memory</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10~13-Pintos_Project3_Virtual%20Memory.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10~13-Pintos_Project3_Virtual%20Memory.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK10~13-Pintos_Project3_Virtual Memory</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10~13-Pintos_Project3_Virtual%20Memory.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK10~13-Pintos_Project3_Virtual%20Memory.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK10~13-Pintos_Project3_Virtual Memory</source>
       <description>SW사관학교 정글 5기 10~13주차 정리</description>
       <category>Dev</category>
       <pubDate>Tue, 06 Dec 2022 00:00:00 GMT</pubDate>
@@ -1471,9 +1471,9 @@
     </item>
     <item>
       <title>WEEK13-Pintos_Project3_회고</title>
-      <link>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK13-Pintos_Project3_%ED%9A%8C%EA%B3%A0.html</link>
-      <guid>https://www.levih.me/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK13-Pintos_Project3_%ED%9A%8C%EA%B3%A0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">WEEK13-Pintos_Project3_회고</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK13-Pintos_Project3_%ED%9A%8C%EA%B3%A0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/dev/SW%EC%82%AC%EA%B4%80%ED%95%99%EA%B5%90%EC%A0%95%EA%B8%80/WEEK13-Pintos_Project3_%ED%9A%8C%EA%B3%A0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">WEEK13-Pintos_Project3_회고</source>
       <description>SW사관학교 정글 5기 13주차 회고</description>
       <category>Dev</category>
       <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
@@ -1548,9 +1548,9 @@
     </item>
     <item>
       <title>무엇이 나를 행복하게 만드는가</title>
-      <link>https://www.levih.me/vue-press/books/%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%82%98%EB%A5%BC-%ED%96%89%EB%B3%B5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94%EA%B0%80.html</link>
-      <guid>https://www.levih.me/vue-press/books/%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%82%98%EB%A5%BC-%ED%96%89%EB%B3%B5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94%EA%B0%80.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">무엇이 나를 행복하게 만드는가</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/books/%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%82%98%EB%A5%BC-%ED%96%89%EB%B3%B5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94%EA%B0%80.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/books/%EB%AC%B4%EC%97%87%EC%9D%B4-%EB%82%98%EB%A5%BC-%ED%96%89%EB%B3%B5%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%9C%EB%8A%94%EA%B0%80.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">무엇이 나를 행복하게 만드는가</source>
       <description>나의 인생의 가방에 무엇을 담아서 여행일 떠날 것인가!</description>
       <category>Books</category>
       <pubDate>Mon, 22 Jul 2024 00:00:00 GMT</pubDate>
@@ -1626,9 +1626,9 @@
     </item>
     <item>
       <title>7가지 코드-총정리</title>
-      <link>https://www.levih.me/vue-press/books/7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C/intro.html</link>
-      <guid>https://www.levih.me/vue-press/books/7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C/intro.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">7가지 코드-총정리</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/books/7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C/intro.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/books/7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C/intro.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">7가지 코드-총정리</source>
       <description>PM이라면 반드시 읽어야 할 필독서</description>
       <category>Books</category>
       <pubDate>Wed, 04 Oct 2023 00:00:00 GMT</pubDate>
@@ -1645,9 +1645,9 @@
     </item>
     <item>
       <title>[용어]CAC와 LTV의 정의 및 관계(7가지코드)</title>
-      <link>https://www.levih.me/vue-press/tech-product/pm/CAC%EC%99%80%20LTV%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EA%B4%80%EA%B3%84(7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C).html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/pm/CAC%EC%99%80%20LTV%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EA%B4%80%EA%B3%84(7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C).html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">[용어]CAC와 LTV의 정의 및 관계(7가지코드)</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/CAC%EC%99%80%20LTV%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EA%B4%80%EA%B3%84(7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C).html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/CAC%EC%99%80%20LTV%EC%9D%98%20%EC%A0%95%EC%9D%98%20%EB%B0%8F%20%EA%B4%80%EA%B3%84(7%EA%B0%80%EC%A7%80%EC%BD%94%EB%93%9C).html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">[용어]CAC와 LTV의 정의 및 관계(7가지코드)</source>
       <description>7가지 코드를 읽다가 발견한 CAC와 LTV에 대해 공부하자</description>
       <category>Tech Product</category>
       <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
@@ -1761,9 +1761,9 @@
     </item>
     <item>
       <title>URL을 이해하고 업무효율 증가 및 개인보안 강화하기</title>
-      <link>https://www.levih.me/vue-press/tech-product/pm/URL%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EC%97%85%EB%AC%B4%ED%9A%A8%EC%9C%A8%20%EC%A6%9D%EA%B0%80%20%EB%B0%8F%20%EA%B0%9C%EC%9D%B8%EB%B3%B4%EC%95%88.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/pm/URL%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EC%97%85%EB%AC%B4%ED%9A%A8%EC%9C%A8%20%EC%A6%9D%EA%B0%80%20%EB%B0%8F%20%EA%B0%9C%EC%9D%B8%EB%B3%B4%EC%95%88.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">URL을 이해하고 업무효율 증가 및 개인보안 강화하기</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/URL%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EC%97%85%EB%AC%B4%ED%9A%A8%EC%9C%A8%20%EC%A6%9D%EA%B0%80%20%EB%B0%8F%20%EA%B0%9C%EC%9D%B8%EB%B3%B4%EC%95%88.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/URL%EC%9D%84%20%EC%9D%B4%ED%95%B4%ED%95%98%EA%B3%A0%20%EC%97%85%EB%AC%B4%ED%9A%A8%EC%9C%A8%20%EC%A6%9D%EA%B0%80%20%EB%B0%8F%20%EA%B0%9C%EC%9D%B8%EB%B3%B4%EC%95%88.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">URL을 이해하고 업무효율 증가 및 개인보안 강화하기</source>
       <description>도메인과 URL을 쉽게 이해 하고 이를 활용하여 개인보안 능력 키우기</description>
       <category>Tech Product</category>
       <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
@@ -1877,9 +1877,9 @@
     </item>
     <item>
       <title>[용어] 검색 엔진 최적화(SEO) 정의와 적용 방법</title>
-      <link>https://www.levih.me/vue-press/tech-product/pm/%EA%B2%80%EC%83%89%20%EC%97%94%EC%A7%84%20%EC%B5%9C%EC%A0%81%ED%99%94(SEO)%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EB%B2%95.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/pm/%EA%B2%80%EC%83%89%20%EC%97%94%EC%A7%84%20%EC%B5%9C%EC%A0%81%ED%99%94(SEO)%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EB%B2%95.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">[용어] 검색 엔진 최적화(SEO) 정의와 적용 방법</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/%EA%B2%80%EC%83%89%20%EC%97%94%EC%A7%84%20%EC%B5%9C%EC%A0%81%ED%99%94(SEO)%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EB%B2%95.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/pm/%EA%B2%80%EC%83%89%20%EC%97%94%EC%A7%84%20%EC%B5%9C%EC%A0%81%ED%99%94(SEO)%20%EC%A0%95%EC%9D%98%EC%99%80%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EB%B2%95.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">[용어] 검색 엔진 최적화(SEO) 정의와 적용 방법</source>
       <description>검색 엔진 최적화 정의와 적용 방법에 대해 알아보자</description>
       <category>Tech Product</category>
       <pubDate>Tue, 11 Jun 2024 00:00:00 GMT</pubDate>
@@ -1914,9 +1914,9 @@
     </item>
     <item>
       <title>삽질 그만하고 oopy.io 사용하기</title>
-      <link>https://www.levih.me/vue-press/tech-product/saas/%EC%82%BD%EC%A7%88%20%EA%B7%B8%EB%A7%8C%ED%95%98%EA%B3%A0%20oopy.io%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html</link>
-      <guid>https://www.levih.me/vue-press/tech-product/saas/%EC%82%BD%EC%A7%88%20%EA%B7%B8%EB%A7%8C%ED%95%98%EA%B3%A0%20oopy.io%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html</guid>
-      <source url="https://www.levih.me/vue-press/rss.xml">삽질 그만하고 oopy.io 사용하기</source>
+      <link>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/%EC%82%BD%EC%A7%88%20%EA%B7%B8%EB%A7%8C%ED%95%98%EA%B3%A0%20oopy.io%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html</link>
+      <guid>https://www.h-levi.me/vue-press/vue-press/tech-product/saas/%EC%82%BD%EC%A7%88%20%EA%B7%B8%EB%A7%8C%ED%95%98%EA%B3%A0%20oopy.io%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.html</guid>
+      <source url="https://www.h-levi.me/vue-press/vue-press/rss.xml">삽질 그만하고 oopy.io 사용하기</source>
       <description>길었던 그동안의 삽질을 뒤로하고 oopy에 돈을 써보자</description>
       <category>Tech Product</category>
       <pubDate>Mon, 29 Jan 2024 00:00:00 GMT</pubDate>
